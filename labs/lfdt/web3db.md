@@ -3,7 +3,6 @@ layout: default
 title: Web3DB
 parent: LFDT Labs
 grand_parent: Active Labs
-# [//]: # (parent: Labs)
 ---
 # Lab Name
 Web3DB 
