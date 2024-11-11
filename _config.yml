@@ -1,5 +1,5 @@
 title: "LF Decentralized Trust Labs"
-logo: "/lf-decentralized-trust-logo.svg"
+logo: "lf-decentralized-trust-logo.svg"
 url: "https://LF-Decentralized-Trust-labs.github.io"
 description: "Start here to propose a LF Decentralized Trust Lab"
 show_downloads: "false"
@@ -7,10 +7,11 @@ has_children: true
 has_toc: true
 aux_links:
   "GitHub":
-    - "//github.com/LF-Decentralized-Trust-labs"
+    - "https://github.com/LF-Decentralized-Trust-labs"
   "Chat":
-    - "//discord.lfdecentralizedtrust.org"
-# Switch next two lines for local debugging
+    - "https://discord.lfdecentralizedtrust.org"
 theme: just-the-docs
-#remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
 repository: "LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io"
