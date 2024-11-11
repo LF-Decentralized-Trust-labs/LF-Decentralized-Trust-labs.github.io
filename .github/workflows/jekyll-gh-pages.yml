@@ -35,7 +35,7 @@ jobs:
         with:
           ruby-version: '3.2' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 1 # Increment this number if you need to re-download cached gems
+          cache-version: 2 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
