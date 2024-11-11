@@ -1,6 +1,7 @@
 title: "LF Decentralized Trust Labs"
 logo: "lf-decentralized-trust-logo.svg"
-url: "https://LF-Decentralized-Trust-labs.github.io"
+baseurl: ""
+url: "https://LF-Decentralized-Trust-labs.github.io/"
 description: "Start here to propose a LF Decentralized Trust Lab"
 show_downloads: "false"
 has_children: true
