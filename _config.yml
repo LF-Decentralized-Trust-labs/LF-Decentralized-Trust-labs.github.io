@@ -14,4 +14,4 @@ theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
-repository: "LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io"
+repository: LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io
