@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agora
-parent: Hyperledger Labs
+parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
