@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Waterfall Network Proposal
-parent: Hyperledger Labs
+parent: LFDT Labs
 grand_parent: Active Labs
 ---
+
 # Lab Name
 [Waterfall Network](https://waterfall.network/)
 
