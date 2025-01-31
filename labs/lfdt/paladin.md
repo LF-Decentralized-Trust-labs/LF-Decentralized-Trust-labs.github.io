@@ -11,7 +11,7 @@ grand_parent: Active Labs
 
 # Short Description
 
-Paladin is a platform for building privacy preserving tokens with infinite programmability on EVM.
+Paladin is a platform for building programmable privacy preserving tokens on EVM, with integrated client and wallet. Support for several privacy frameworks including ZKP tokens, issuer-backed tokens, and private smart contracts.
 
 # Scope of Lab
 
