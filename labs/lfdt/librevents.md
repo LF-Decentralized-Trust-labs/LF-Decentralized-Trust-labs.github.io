@@ -7,10 +7,10 @@ parent: Labs
 Librevents
 
 # Short Description
-A multi-chain tool for capturing and processing events from DLT networks. This project is based on Eventeum.
+A multi-chain tool for capturing and processing events from DLT networks. This project is based on [Eventeum](https://github.com/eventeum/eventeum).
 
 # Scope of Lab
-Capturing and processing events emitted by a DLT network—including smart contract events, new blocks, and new transactions—is essential for decentralized applications. Librevents builds upon the design and features of Eventeum to create a user-friendly and resilient event listener that supports a wide range of DLT protocols. Its goal is to simplify event handling by reducing the effort required to develop, deploy, and maintain application logic for capturing, processing, and broadcasting DLT events—all while meeting the security and performance demands of enterprise-grade systems.
+Capturing and processing events emitted by a DLT network—including smart contract events, new blocks, and new transactions—is essential for decentralized applications. Librevents builds upon the design and features of [Eventeum](https://github.com/eventeum/eventeum) to create a user-friendly and resilient event listener that supports a wide range of DLT protocols. Its goal is to simplify event handling by reducing the effort required to develop, deploy, and maintain application logic for capturing, processing, and broadcasting DLT events—all while meeting the security and performance demands of enterprise-grade systems.
 
 Key Features:
 
