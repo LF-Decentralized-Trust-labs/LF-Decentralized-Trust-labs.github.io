@@ -1,7 +1,8 @@
 ---
 layout: default
 title: NZDT-Tech-Arch
-[//]: # (parent: Labs)
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 _NZDT-Tech-Arch._
