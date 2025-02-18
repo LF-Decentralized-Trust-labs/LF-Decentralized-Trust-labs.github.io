@@ -4,7 +4,7 @@ title: NZDT-Tech-Arch
 [//]: # (parent: Labs)
 ---
 # Lab Name
-_Enter the name of your lab here._
+_NZDT-Tech_Arch._
 _Change line 3 of this file to reflect the short name of your project._
 _Change line 4 to read: "parent: Labs"_
 
