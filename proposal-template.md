@@ -5,8 +5,8 @@ title: NZDT-Tech-Arch
 ---
 # Lab Name
 _NZDT-Tech_Arch._
-_Change line 3 of this file to reflect the short name of your project._
-_Change line 4 to read: "parent: Labs"_
+__
+__
 
 # Short Description
 _Utilizing LFDT platforms and tools , produce a technical architecture for the software development of a Digital Twin for supply chains to track and model greenhouse gas(GHG) emissions for the eventual reduction to net-zero GHG emissions._
