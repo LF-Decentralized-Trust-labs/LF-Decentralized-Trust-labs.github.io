@@ -22,7 +22,6 @@ _Enter the Github IDs for the set of initial committers._
 - ...
 
 # Sponsor
-_None at this time. Lab is in need of a "Sponsor".........Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the LF Decentralized Trust projects, a TAC member, or a SIG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
 - https://github.com/<JSPApril> or Name (Jeff.Pribich@gmail.com) - Role ("Chair of the Climate Action and Accounting SIG, Chair of Supply Chain and Trade Finance SIG")
 
 # Pre-existing repository
