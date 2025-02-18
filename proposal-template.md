@@ -4,7 +4,7 @@ title: NZDT-Tech-Arch
 [//]: # (parent: Labs)
 ---
 # Lab Name
-_NZDT-Tech_Arch._
+_NZDT-Tech-Arch._
 
 
 
