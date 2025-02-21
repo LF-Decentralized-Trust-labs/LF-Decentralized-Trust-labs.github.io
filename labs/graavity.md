@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Graavity
-"(parent: Labs)"_
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 Graavity
