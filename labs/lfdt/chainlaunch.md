@@ -1,8 +1,7 @@
 ---
 layout: default
 title: ChainLaunch
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Labs
 ---
 # Lab Name
 ChainLaunch
