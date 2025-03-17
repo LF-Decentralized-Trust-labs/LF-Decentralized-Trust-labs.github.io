@@ -16,6 +16,9 @@ ChainLaunch functions as a **supernode** platform that offers:
 - **Supernode Connectivity**: Connect with other supernodes to form larger, decentralized networks
 - **Governance Management**: Manage network policies, permissions, and consensus mechanisms
 - **Automated Deployment**: Deploy Fabric components (peers, orderers, and CAs) without Kubernetes
+- **Baremetal Deployment**: Deploy Hyperledger Fabric and Besu directly on physical hardware without requiring container orchestration
+- **Go-based Implementation**: Built with Go programming language for performance, reliability, and cross-platform compatibility
+
 
 The platform provides:
 
