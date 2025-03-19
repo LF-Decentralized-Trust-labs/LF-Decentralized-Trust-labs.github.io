@@ -15,7 +15,6 @@ Stewards
 | Nidhi Singh | [nidhi-singh02][nidhi-singh02] |
 | Marcus Brandenburger | [mbrandenburger][mbrandenburger] |
 | Alvaro Picazo | [alvaropicazo][alvaropicazo] |
-| Esteban Garcia | [essbante-io][essbante-io] |
 
 [tkuhrt]: https://github.com/tkuhrt
 [nidhi-singh02]: https://github.com/nidhi-singh02
@@ -30,6 +29,7 @@ Stewards
 | Bas van Oostveen | [trbs][trbs] |
 | Anand Banik | [anandbanik][anandbanik] |
 | Arnaud J Le Hors | [lehors][lehors] |
+| Esteban Garcia | [essbante-io][essbante-io] |
 | Kamlesh Nagware | [knagware9][knagware9] |
 | Vipin Bharathan | [vipinsun][vipinsun] |
 
