@@ -16,7 +16,3 @@ By leveraging LACChain's blockchain infrastructure, the region can establish a c
 
 # Initial Committers
 - https://github.com/neri-lacnet
-
-# Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the LF Decentralized Trust Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
