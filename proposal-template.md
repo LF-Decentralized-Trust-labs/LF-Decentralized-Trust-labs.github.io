@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Lab Proposal Template
-[//]: # (parent: Labs)
+[//]: # (parent: LFDT Labs)
+[//]: # (grand_parent: Active Labs)
 ---
 # Lab Name
-_Enter the name of your lab here._
+_Enter the name of your lab here. **NOTE: When picking a name for your lab, note that a lab CANNOT be named the same as a product, network or any other existing entity.  Open source code should have a distinct identity from any instance of that code being used as a product or service.  If you do name your lab after a product or service note that you will need to change it later.**_
 _Change line 3 of this file to reflect the short name of your project._
-_Change line 4 to read: "parent: Labs"_
+_Change line 4 to read: "parent: LFDT Labs"_
+_Change line 5 to read: "grand_parent: Active Labs"_
 
 # Short Description
 _Provide a short description of your lab. This will be used for the Github repository's description._
