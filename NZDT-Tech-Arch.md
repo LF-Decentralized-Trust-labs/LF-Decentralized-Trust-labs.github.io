@@ -17,7 +17,7 @@ To meet the ever more stringent GHG emission regulations imposed upon global sup
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
+- https://github.com/<JSPApril>
 - https://github.com/<user_id2>
 - ...
 
