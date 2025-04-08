@@ -17,9 +17,9 @@ for additional information.
 1. Fork the [lf-decentralized-trust-labs.github.io](https://github.com/lf-decentralized-trust-labs/lf-decentralized-trust-labs.github.io) repository.
 
 2. Fill out the [Proposal Template](https://github.com/lf-decentralized-trust-labs/lf-decentralized-trust-labs.github.io/blob/master/proposal-template.md)
-and save it into the `labs/lfdt` subdirectory under the name of your lab,
-such as `my-new-lab.md`. It is expected that your lab repository will have
-the same name so keep that in mind.
+and save it into the labs subdirectory under the name of your lab,
+such as mynewlab.md. It is expected that your lab repository will have
+the same name so keep that in mind. Also, when picking a name for your lab, note that a lab **CANNOT** be named the same as a product, network or any other existing entity.  Open source code should have a distinct identity from any instance of that code being used as a product or service.  If you do name your lab after a product or service note that you will need to change it later.
 
 3. In the Proposal Template, there is an entry for sponsor(s). Although not required, proposers are encouraged to seek a sponsor who can help them create ties with the rest of the LF Decentralized Trust community and ensure that the proposal is cogent and novel (in conception, proposed execution, or interested community).<br/>
 To find sponsors:
