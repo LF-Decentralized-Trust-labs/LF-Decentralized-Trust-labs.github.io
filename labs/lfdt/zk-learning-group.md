@@ -11,7 +11,7 @@ Zk Learning Group
 Zk learning group is a collaborative effort  to learn zero knowledge and SNARK. The main focus is not so much covering all the deep theoretical and mathematical details but rather considering topics from the programmers and application developers.
 
 # Scope of Lab
-The scope of the lab is to collect materials for zero knowledge and SNARK programmig.
+The scope of the lab is to collect materials for zero knowledge and SNARK programming.
 
 # Initial Committers
 - Daniel Szego https://github.com/Daniel-Szego
