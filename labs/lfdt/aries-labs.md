@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Proposal Template
+title: Aries Labs
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
@@ -8,10 +8,13 @@ grand_parent: Active Labs
 Aries labs
 
 # Short Description
-As Hyperledger Aries transitions to archived status, there are a few repos for which the maintainers would like to transition to labs.
+Labs related to Hyperledger Aries
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within LF Decentralized Trust's mission._
+As  Hyperledger Aries transitions to archived status, there are a few repos for which the maintainers would like to transition to labs:
+- Aries Framework Kotlin - Aries Framework Kotlin is an Android framework for [Aries](https://github.com/hyperledger/aries) protocol.
+- Aries Framework Swift - Aries Framework Swift is an iOS framework for [Aries](https://github.com/hyperledger/aries) protocol.
+- Aries Uniffi Wrappers: This repository contains the wrappers for the following libraries: Aries Askar, AnonCreds Rust, and Indy VDR. The wrappers are generated using [UniFFI](https://github.com/mozilla/uniffi-rs). UniFFI can generate several language bindings including Swift, Kotlin, and Python. Kotlin wrappers are generated with [uniffi-kotlin-multiplatform-bindings](https://gitlab.com/trixnity/uniffi-kotlin-multiplatform-bindings).
 
 # Initial Committers
 
@@ -19,11 +22,10 @@ _Enter the scope of the lab. This should include enough information to allow the
 
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the LF Decentralized Trust projects, a TAC member, or a SIG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+No sponsor
 
 # Pre-existing repository
 
 - [https://github.com/hyperledger/aries-framework-kotlin](https://github.com/hyperledger/aries-framework-kotlin)
-- [https://github.com/aries-framework-swift](https://github.com/aries-framework-swift)
-- [https://github.com/aries-uniffi-wrappers](https://github.com/aries-uniffi-wrappers)
+- [https://github.com/hyperledger/aries-framework-swift](https://github.com/hyperledger/aries-framework-swift)
+- [https://github.com/hyperledger/aries-uniffi-wrappers](https://github.com/hyperledger/aries-uniffi-wrappers)
