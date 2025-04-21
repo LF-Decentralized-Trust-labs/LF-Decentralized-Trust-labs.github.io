@@ -18,8 +18,6 @@ To meet the ever more stringent GHG emission regulations imposed upon global sup
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/JSPApril
-- https://github.com/<user_id2>
-- ...
 
 # Sponsor
 - https://github.com/<JSPApril> or Name (Jeff.Pribich@gmail.com) - Role ("Chair of the Climate Action and Accounting SIG, Chair of Supply Chain and Trade Finance SIG")
