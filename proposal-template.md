@@ -1,11 +1,9 @@
-
 ---
 layout: default
 title: Lab Proposal Template
 [//]: # (parent: LFDT Labs)
 [//]: # (grand_parent: Active Labs)
 ---
-
 # Lab Name
 _Enter the name of your lab here. **NOTE: When picking a name for your lab, note that a lab CANNOT be named the same as a product, network or any other existing entity.  Open source code should have a distinct identity from any instance of that code being used as a product or service.  If you do name your lab after a product or service note that you will need to change it later.**_
 _Change line 3 of this file to reflect the short name of your project._
