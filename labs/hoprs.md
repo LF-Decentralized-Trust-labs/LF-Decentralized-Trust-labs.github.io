@@ -104,7 +104,5 @@ No current sponsors
 - https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the LF Decentralized Trust Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-
-We have an open source repo but not planning on transferring it to LFDT - does that work?
-- https://github.com/<your_repo>
+We have an open source repo here for HOPrS but are unclear if we should keep this here or transfer. What is your recommendation?
+- [HOPrS GitHub repo](https://github.com/human-oriented/HOPrS/)
