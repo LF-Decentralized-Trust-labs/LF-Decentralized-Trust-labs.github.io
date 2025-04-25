@@ -101,8 +101,7 @@ Figure 5: Provenance Tracking workflow chart
 
 # Sponsor
 No current sponsors
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
 
 # Pre-existing repository
-We have an open source repo here for HOPrS but are unclear if we should keep this here or transfer. What is your recommendation?
-- [HOPrS GitHub repo](https://github.com/human-oriented/HOPrS/)
+Happy to transfer our open source repo to LFDT's
+- [OpenOrigins' HOPrS GitHub repo](https://github.com/human-oriented/HOPrS/)
