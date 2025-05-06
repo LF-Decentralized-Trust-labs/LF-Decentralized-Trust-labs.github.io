@@ -1,6 +1,6 @@
 ---
 layout: default
-title: one-attestation-api
+title: One Attestation API
 parent: LFDT Labs
 grand_parent: Active Labs
 ---

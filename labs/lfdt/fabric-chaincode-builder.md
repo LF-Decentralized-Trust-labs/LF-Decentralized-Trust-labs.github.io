@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fabric-chaincode-builder
+title: Fabric Chaincode Builder
 parent: LFDT Labs
 grand_parent: Active Labs
 ---

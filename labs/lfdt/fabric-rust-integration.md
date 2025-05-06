@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Hyperledger Fabric Rust Integration
-[//]: # (parent: Labs)
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 Hyperledger Fabric Rust Integration
