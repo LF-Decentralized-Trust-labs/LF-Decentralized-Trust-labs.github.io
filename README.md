@@ -2,7 +2,7 @@
 
 LF Decentralized Trust Labs provides a space (i.e., GitHub repos) where work can
 easily be started without the creation of a project. Please refer to
-the [LF Decentralized Trust Labs wiki page](https://wiki.hyperledger.org/display/labs)
+the [LF Decentralized Trust Labs wiki page](https://lf-hyperledger.atlassian.net/wiki/spaces/labs/overview)
 for additional information.
 
 ## Process to propose a new lab
