@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Solang Playground
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 
 # Lab Name
