@@ -1,6 +1,6 @@
 ---
 layout: default
-title: artizyou.md
+title: ArtizYou
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
