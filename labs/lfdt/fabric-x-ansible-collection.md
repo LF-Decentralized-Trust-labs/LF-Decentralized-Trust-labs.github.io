@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-[Fabric-X Ansible Collection](https://github.com/hyperledger-labs/fabric-x-ansible-collection)
+[Fabric-X Ansible Collection](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection)
 
 # Short Description
 An Ansible collection to create and manage Hyperledger Fabric-X networks. 
