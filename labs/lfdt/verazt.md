@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Verazt
-[//]: # (parent: Hyperledger Labs)
-[//]: # (grand_parent: Active Labs)
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
-[Verazt](https://github.com/hyperledger-labs/verazt)
+[Verazt](https://github.com/LF-Decentralized-Trust-labs/verazt)
 
 # Short Description
 
@@ -42,4 +42,4 @@ N/A
 
 # Pre-existing repository
 
-We are maintaining several repositories implementing the tools and techniques mentioned above. We will squash them into one commit and transfer them to the new repository created by Hyperledger Labs organization.
+We are maintaining several repositories implementing the tools and techniques mentioned above. We will squash them into one commit and transfer them to the new repository created by LFDT Labs organization.
