@@ -31,6 +31,9 @@ We are a team of researchers and engineers from the [Singapore Blockchain Innova
 
 Our initial committers are:
 
+- https://github.com/ooibc
+- https://github.com/ooibc88
+- https://github.com/xkxiao
 - https://github.com/taquangtrung
 - https://github.com/cassc
 - https://github.com/minhhn2910
