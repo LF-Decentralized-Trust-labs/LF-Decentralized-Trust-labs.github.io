@@ -51,7 +51,7 @@ For Hyperledger Aries agents issuing AnonCreds credentials the software allows:
     Aries] Bundles and more.
   - Enterprise Hyperledger Aries agents may publish files containing public
     verifiable credentials about the DID controller, such as certificates of
-    Incorporation, membership in trade organizations, audit reports, and so on. 
+    Incorporation, membership in trade organizations, audit reports, and so on.
 
 For Hyperledger Aries agents holding or verifying AnonCreds credentials, the software allows:
 

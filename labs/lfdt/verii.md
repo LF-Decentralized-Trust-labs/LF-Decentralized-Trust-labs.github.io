@@ -5,12 +5,13 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-verii
+
+[Verii](https://github.com/LFDT-Verii)
 
 # Short Description
-Verii is an enterprise-grade software stack for creating a "pay-to-verify" Verifiable Credentials ecosystem. 
- 
- When issued, credentials are anchored to 
+Verii is an enterprise-grade software stack for creating a "pay-to-verify" Verifiable Credentials ecosystem.
+
+ When issued, credentials are anchored to
  - a distributed ledger utilized for decentralized encrypted verification key distribution and revocation registry
  - a trust registry which runs governance rules of the ecosystem and is compatible with global consumer data protection regulations.
 
@@ -23,12 +24,12 @@ When credentials are shared, the verifier
 - can check a revocation (or suspension) status
 
 # Scope of Lab
-Verii was developed by the Velocity Network Foundation, a non-profit foundation established in 2019 with the mission of transforming the way career and education data is exchanged. 
+Verii was developed by the Velocity Network Foundation, a non-profit foundation established in 2019 with the mission of transforming the way career and education data is exchanged.
 
  Verii provides to ecosystems a decentralized software stack usable by their issuers, verfiers and individuals. Individuals have verifiable tamper-proof digital
  credentials that are trusted universally by Verifiers within the ecossystem. Verii is built from the seminal specifications of W3C Decentalized Identifers v1.0 and
- W3C Verifiable Credentials Data Model v1.1. 
- 
+ W3C Verifiable Credentials Data Model v1.1.
+
  The stack plugs into a separate and optional incentivization and pay-to-verify model.
 
  ## Trust Registry API & Portal
@@ -60,7 +61,7 @@ Verii was developed by the Velocity Network Foundation, a non-profit foundation 
 
  The Wallet SDKs exist for NodeJS, native iOS, native Android, and ReactNative. Targeted at end-user devices, they implement the VelocityCore exchange protocols for network interoperability and integrate into the trust registry for data interoperability, counterparty trust, and data trust.
 
- 
+
 # Initial Committers
  - Andres Olave https://github.com/sloops77
  - Nassan Paul https://github.com/nassan

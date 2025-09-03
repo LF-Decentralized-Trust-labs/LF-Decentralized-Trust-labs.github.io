@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Fabric Token Java SDK
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Fabric Token Java SDK.](https://github.com/hyperledger-labs/Fabric-Token-Java-SDK)
@@ -19,7 +18,7 @@ This will be created using a JNI to interact with the services that the Token SD
 - [João Antunes](https://github.com/smallestant)
 
 # Sponsor
-- 
+-
 
 # Pre-existing repository
 None

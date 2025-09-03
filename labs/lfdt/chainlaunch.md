@@ -4,7 +4,7 @@ title: ChainLaunch
 parent: Labs
 ---
 # Lab Name
-ChainLaunch
+[ChainLaunch](https://github.com/LF-Decentralized-Trust-labs/chaindeploy)
 
 # Short Description
 ChainLaunch is a platform that simplifies blockchain network deployment and management, focusing on Hyperledger Fabric and Hyperledger Besu.
@@ -33,7 +33,7 @@ The platform provides:
 3. **Security and Operations**
    - Automated backup and recovery systems
    - Secure key management and rotation
-   
+
 4. **Administration Tools**
    - Monitoring and alerts
    - Resource optimization utilities

@@ -10,8 +10,8 @@ parent: Archived Labs
 Blockchain-based charity foundation platform.
 
 # Scope of Lab
-The Karma – is a blockchain-based charity foundation platform implemented on the top of Hyperledger Fabric. 
-The Karma platform allows charitable organizations and funds to create and manage different philanthropic projects, 
+The Karma – is a blockchain-based charity foundation platform implemented on the top of Hyperledger Fabric.
+The Karma platform allows charitable organizations and funds to create and manage different philanthropic projects,
 accept donations, and present the auditable public trail of all transactions and other activities.
 
 Currently, most blockchain projects in NPOs are implemented on the permissionless blockchain, which has limited control

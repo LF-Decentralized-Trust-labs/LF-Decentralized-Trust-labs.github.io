@@ -26,21 +26,21 @@ A platform, a protocol suite, and a set of tools, to enable interoperation for d
 - We will provide and maintain a basic _testnet_ for rapid prototyping and testing.
 
 # Initial Committers
-- https://github.com/VRamakrishna
-- https://github.com/ermyas
-- https://github.com/nwaywood
-- https://github.com/dileban
-- https://github.com/airvin
-- https://github.com/AntTargett
+- [Ramakrishna](https://github.com/VRamakrishna)
+- [Ermyas Abebe](https://github.com/ermyas)
+- [Nick Waywood](https://github.com/nwaywood)
+- [Dileban Karunamoorthy](https://github.com/dileban)
+- https://github.com/airvinv
+- [Ant](https://github.com/AntTargett)
 - https://github.com/sanvenDev
-- https://github.com/knarayan
-- https://github.com/dhinakaran2705
-- https://github.com//Yining-Hu
-- https://github.com/Vinayaka-Pandit
-- https://github.com/hyp0th3rmi4
+- [Krishnasuri Narayanam](https://github.com/knarayan)
+- [Dhinakaran Vinayagamurthy](https://github.com/dhinakaran2705)
+- [Yining Hu](https://github.com/Yining-Hu)
+- [Vinayaka Pandit](https://github.com/Vinayaka-Pandit)
+- [Christian Vecchiola](https://github.com/hyp0th3rmi4)
 
 # Sponsor
-- https://github.com/lehors - TSC Member
+- [Arnaud J Le Hors](https://github.com/lehors) - TSC Member
 
 # Former Members
 - https://github.com/ChanderG

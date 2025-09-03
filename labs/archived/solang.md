@@ -7,7 +7,7 @@ parent: Archived Labs
 [solang](https://github.com/hyperledger-labs/solang)
 
 # Short Description
-A Solidity to wasm compiler written in rust 
+A Solidity to wasm compiler written in rust
 
 # Scope of Lab
 The solang compiler would be able to compile contracts written in Solidity

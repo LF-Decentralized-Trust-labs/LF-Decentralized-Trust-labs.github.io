@@ -8,7 +8,7 @@ grand_parent: Active Labs
 [Fabric-X Ansible Collection](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection)
 
 # Short Description
-An Ansible collection to create and manage Hyperledger Fabric-X networks. 
+An Ansible collection to create and manage Hyperledger Fabric-X networks.
 
 # Scope of Lab
 This lab contains ansible collections to manage Hyperledger Fabric-X networks comprised of following components:

@@ -10,7 +10,7 @@ grand_parent: Active Labs
 
 # Short Description
 
-[Hyperledger Fabric]('https://www.hyperledger.org/use/fabric') is a permissioned, modular, and extensible open-source DLT platform. Fabric architecture follows a novel `execute-order-validate` paradigm that supports distributed execution of untrusted code in an untrusted environment. Indeed, Fabric-based distributed applications can be written in any general-purpose programming language.  
+[Hyperledger Fabric]('https://www.hyperledger.org/use/fabric') is a permissioned, modular, and extensible open-source DLT platform. Fabric architecture follows a novel `execute-order-validate` paradigm that supports distributed execution of untrusted code in an untrusted environment. Indeed, Fabric-based distributed applications can be written in any general-purpose programming language.
 
 Developing applications for Hyperledger Fabric is often hard, sometimes painful. Fabric is a very powerful ecosystem whose building blocks must be carefully orchestrated to achieve the desired results. Currently, the Fabric Client SDKs are too limited. They do not offer any advanced capabilities to let the developers focus on the `application business processes`, and harness the full potential of Fabric.
 

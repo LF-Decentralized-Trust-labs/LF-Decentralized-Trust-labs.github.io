@@ -11,7 +11,7 @@ grand_parent: Active Labs
 This lab focuses on running an aries agent controller. Controllers are used to facilitate interactions between different types of agents on a network.
 
 # Scope of Lab
-The scope of this lab is to provide an agent controller to help navigate interactions between different agents. The controller is implemented through aca-py as a django python application. It features docker code to help setup agents locally and various endpoints to facilitate the verifiable credential process/lifecycle. The holder agent may be run in mulit or single tenant mode as needed for different use cases. This lab assumes that an indy network is being leveraged as the underlying verifiable data registry (VDR), however hyperledger aries is chain-agnostic and can therefore be extended to work against different chains. 
+The scope of this lab is to provide an agent controller to help navigate interactions between different agents. The controller is implemented through aca-py as a django python application. It features docker code to help setup agents locally and various endpoints to facilitate the verifiable credential process/lifecycle. The holder agent may be run in mulit or single tenant mode as needed for different use cases. This lab assumes that an indy network is being leveraged as the underlying verifiable data registry (VDR), however hyperledger aries is chain-agnostic and can therefore be extended to work against different chains.
 
 
 # Initial Committers

@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-One Attestation API
+[One Attestation API](https://github.com/LF-Decentralized-Trust-labs/one-attestation-api)
 
 # Short Description
 This lab proposes to create a single API to handle remote attestations.

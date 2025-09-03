@@ -12,8 +12,8 @@ The Cordentity app integrates Indy capabilities into the Corda platform.
 While Corda is designed for developing decentralized applications to
 manage complex inter-organizational workflows, Indy is the leading
 open-source platform for self sovereign identity. This integration
-enables the development of decentralized applications on R3's blockchain 
-for business while utilizing the self-sovereign identity capabilities 
+enables the development of decentralized applications on R3's blockchain
+for business while utilizing the self-sovereign identity capabilities
 of Indy.
 
 # Scope of Lab
@@ -26,10 +26,10 @@ self-sovereign identity. The integrated platforms extend each
 other and allow to build comprehensive end-to-end scenarios.
 
 It is often required to prove identity assertions without necessarily
-wanting to reveal the underlying data. For example, an individual may 
-need to prove that they are of a certain age without wanting to 
-disclose their actual date of birth. Hyperledger Indy uses zero 
-knowledge proofs to enable this functionality, allowing someone prove 
+wanting to reveal the underlying data. For example, an individual may
+need to prove that they are of a certain age without wanting to
+disclose their actual date of birth. Hyperledger Indy uses zero
+knowledge proofs to enable this functionality, allowing someone prove
 a statement is true while preserving confidentiality.
 
 # The project is maintained by

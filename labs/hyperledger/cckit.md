@@ -48,4 +48,4 @@ off-chain applications:
 # Pre-existing repository
 
 - https://github.com/s7techlab/cckit
-- 
+-

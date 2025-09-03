@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Zk Learning Group
+[Zk Learning Group](https://github.com/LF-Decentralized-Trust-labs/zk-learning-group)
 
 # Short Description
 Zk learning group is a collaborative effort  to learn zero knowledge and SNARK. The main focus is not so much covering all the deep theoretical and mathematical details but rather considering topics from the programmers and application developers.

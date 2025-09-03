@@ -16,20 +16,20 @@ TrustID implements identity management in an alternative way to Hyperledger Fabr
 The solution consists of two main components:
 
 ## Trust-sdk
-This sdk abstracts all the logic of Hyperledger Fabric (or logic of other platforms could be implemented, like for example ethereum’s web3 ) and also enables the creation and management of decentralized identities. With this library is possible to create, update, revoke, import, and export identities using the DID standard from the W3C. In the end, the DID standard is used to give a global ID to the identities. 
+This sdk abstracts all the logic of Hyperledger Fabric (or logic of other platforms could be implemented, like for example ethereum’s web3 ) and also enables the creation and management of decentralized identities. With this library is possible to create, update, revoke, import, and export identities using the DID standard from the W3C. In the end, the DID standard is used to give a global ID to the identities.
 
 ## Chaincode - Smart contract
-Due to the Hyperledger Fabric identity management, it is not compatible with this type of identities and signatures we have implemented chaincode that implements these functionalities. In the end, all the functionalities that we have commented in the documentation are modules of the same chaincode. In this case, when we create an identity in the sdk, this identity is also registered in the chaincode, storing the public key, so by nature, it will be decentralized. Every time somebody wants to perform a transaction, this transaction will be signed off-chain thanks to the sdk and in the chaincode the signature will be verified. If everything is okay, this chaincode will invoke the chaincode that the user wants 
+Due to the Hyperledger Fabric identity management, it is not compatible with this type of identities and signatures we have implemented chaincode that implements these functionalities. In the end, all the functionalities that we have commented in the documentation are modules of the same chaincode. In this case, when we create an identity in the sdk, this identity is also registered in the chaincode, storing the public key, so by nature, it will be decentralized. Every time somebody wants to perform a transaction, this transaction will be signed off-chain thanks to the sdk and in the chaincode the signature will be verified. If everything is okay, this chaincode will invoke the chaincode that the user wants
 In the case of other platforms, the implementation of this component has to be analyzed.
 
 # Initial Committers
 
 - https://github.com/adlrocha - Alfonso de la Rocha
-- https://github.com/mtnieto - Maria Teresa Nieto 
+- https://github.com/mtnieto - Maria Teresa Nieto
 
 # Sponsor
 
-- Troy Ronda https://github.com/troyronda 
+- Troy Ronda https://github.com/troyronda
 
 # Pre-existing repository
 - https://github.com/telefonicablockchain/trustid

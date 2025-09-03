@@ -19,7 +19,7 @@ Hyperledger Fabric.
 
 # Sponsor
 
-- Chris Ferris -  https://github.com/christo4ferris 
+- Chris Ferris -  https://github.com/christo4ferris
 
 # Pre-existing repository
 - https://github.com/AhmadZafarITU/sol2fab/

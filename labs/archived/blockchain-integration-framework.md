@@ -21,7 +21,7 @@ This lab project proposes an alternative to these models, and it is designed spe
 ## Design Principles
 1. Direct transfer between requestors (from different ledgers)
 1. Pluggable model and components
-1. Flexible requirements and data protocols  
+1. Flexible requirements and data protocols
 1. Leverage pre-existing roles
 
 ## How Does It Work?

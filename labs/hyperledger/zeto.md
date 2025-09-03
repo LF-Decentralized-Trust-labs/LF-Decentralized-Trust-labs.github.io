@@ -23,13 +23,13 @@ This project hosts the multiple patterns to implement privacy preserving tokens 
 
 # Initial Committers
 
-- https://github.com/awrichar
-- https://github.com/EnriqueL8
-- https://github.com/jimthematrix
+- [Andrew Richardson](https://github.com/awrichar)
+- [Enrique Lacal](https://github.com/EnriqueL8)
+- [Jim Zhang](https://github.com/jimthematrix)
 
 # Sponsor
 
-https://github.com/jimthematrix - Jim Zhang, member of the Hyperledger Technical Oversight Committee
+[Jim Zhang](https://github.com/jimthematrix), member of the Hyperledger Technical Oversight Committee
 
 # Pre-existing repositories
 

@@ -9,8 +9,8 @@ Payments Performance Test Harness.
 # Short Description
 This is a test harness designed to measure the performance of payments
 between peers on a blockchain network.
-This performance is measured against the Emerald benchmark which is 
-specified here:  
+This performance is measured against the Emerald benchmark which is
+specified here:
 
 https://gitlab.com/emerald-platform/emerald/wikis/Emerald-Benchmark
 
@@ -23,7 +23,7 @@ network on a number of different blockchain platforms.
 
 ## Why Payments?
 
-Choosing a payments use case enables to not only compare the performance of a 
+Choosing a payments use case enables to not only compare the performance of a
 variety of blockchain plaforms but also compare against existing payment
 platforms and networks.
 
@@ -51,7 +51,7 @@ developers can use to test and tune their own payment solutions.
 
 ## Integration with Hyperledger projects.
 
-An example test harness has been written in javascript that currently 
+An example test harness has been written in javascript that currently
 calls a Corda implementation of the payments network.
 The goal of this lab is to generalise this code so that it will
 work with all of the Hyperledger blockchain platforms in the Hyperledger

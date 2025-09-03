@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Graavity
+[Graavity](https://github.com/graavity-io/graavity_io)
 # Short Description
 Creating a high-throughput DLT for transaction processing and storing on-chain data with Byzantine Fault Tolerance.
 
@@ -28,5 +28,5 @@ https://github.com/graavity-io/graavity_io
 This project is developed and maintained by DIGILION.
 
 ## Additional Notes
-We request to reuse our existing repository: [graavity-io/graavity_io](https://github.com/graavity-io/graavity_io.git).  
+We request to reuse our existing repository: [graavity-io/graavity_io](https://github.com/graavity-io/graavity_io.git).
 All commits are DCO-compliant (or have been squashed into a single signed-off commit).

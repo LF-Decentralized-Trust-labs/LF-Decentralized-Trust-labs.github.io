@@ -18,7 +18,7 @@ The end goals are to obtain, irrespective of how the Fabric infrastructure is cr
 - packaged Chaincode/SmartContract
 
 
-For example packaging chaincode the cli is 
+For example packaging chaincode the cli is
 
 ```
 weft chaincode package

@@ -7,7 +7,7 @@ parent: Archived Labs
 [eThaler](https://github.com/hyperledger-labs/eThaler)
 
 # Short Description
-Model a sample CBDC  in TTF and implement in Besu   
+Model a sample CBDC  in TTF and implement in Besu
 
 # Scope of Lab
 

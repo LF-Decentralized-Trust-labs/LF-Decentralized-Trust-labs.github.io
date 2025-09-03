@@ -24,7 +24,7 @@ At [Alphaledger](https://www.alphaledger.com/) we are setting up complex multi-o
 
 To help with our understanding of the product we have setup individual network topologies that exercised each of these cababilities. The setup of these topologies requires very few installs on a developer's machine (Docker + Docker compose) and standing up a network is simple (just the execution of a start-up script).
 
-Over time, we and the community can add more topologies to demonstrate the setup and configurations for other product features. 
+Over time, we and the community can add more topologies to demonstrate the setup and configurations for other product features.
 
 More background and information on the scope of this proposed lab is provided at the root documentation page for the the [pre-existing repository](https://github.com/alphaledger/hlfabric-topologies).
 

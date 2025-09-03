@@ -26,13 +26,13 @@ measure the behavior and performance of the binary in a repeatable way. It
 is able to simulate networks of machines, each running processes that can talk
 to each other through the simulated network. This makes Shadow a very useful
 tool for researching distributed systems behavior and performance. This lab
-is intended to be an ongoing project to provide a research tool for 
+is intended to be an ongoing project to provide a research tool for
 understanding and improving the Hyperledger blockchain platforms as well as
 for conducting future research in consensus algorithms and scalability.
 
 I do not see this lab ever graduating into incubation as it is not intended to
 be a shipping product but rather an ongoing collaboration between academic,
-corporate, and hobbyist researchers improving upon existing capabilities and 
+corporate, and hobbyist researchers improving upon existing capabilities and
 also trying new things with our blockchains. I anticipate that we will maintain
 the plugins for each of the Hyperledger blockchains as well as any
 experiment-specific configurations and code.
