@@ -14,7 +14,7 @@ Microfab is a containerized Hyperledger Fabric runtime for use in development en
 This containerized version of Fabric can be easily configured with the selection of channels and orgs you want, and also can be started and stopped in seconds. You can interact with it as you would any Fabric setup. Note that this uses the Fabric binaries and starts Fabric with couchdb and CAs for identities. It's not cut down.
 
 Why another format factor of Fabric?  This one is specifically aimed at the developer for their first entry to Fabric. This was originally used withing the VSCode Blockchain Extension, and has also been used as part of the 'Full Stack Application Workshop' - seen at the 2022 Gloabl Forum.
-Though it now has TLS ability, it really is purely meant for development use. 
+Though it now has TLS ability, it really is purely meant for development use.
 
 https://github.com/ibm-blockchain/microfab#why-microfab
 

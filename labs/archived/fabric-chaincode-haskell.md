@@ -12,7 +12,7 @@ parent: Archived Labs
 
 As chaincode often contains business and security critical code, it is important that the code is correct. Implications for contracts containing bugs and exploits can lead to attacks like the DAO and Parity attacks on the Ethereum blockchain, which can have significant economic impacts. Functionally pure and strongly typed languages like Haskell provide a much greater degree of confidence in correctness. `fabric-chaincode-haskell` allows the authorship of chaincode that gives a higher confidence of correctness.
 
-Allowing chaincode to be authored in Haskell also opens up the world of blockchain to the large and enthusiastic community of Haskell developers. 
+Allowing chaincode to be authored in Haskell also opens up the world of blockchain to the large and enthusiastic community of Haskell developers.
 
 # Scope of Lab
 
@@ -28,7 +28,7 @@ Github IDs for the initial committers.
 
 # Sponsor
 
-- Arnaud Le Hors (lehors@us.ibm.com) - Chair of Hyperledger TSC 
+- Arnaud Le Hors (lehors@us.ibm.com) - Chair of Hyperledger TSC
 
 # Pre-existing repository
 

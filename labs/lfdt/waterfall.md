@@ -6,7 +6,7 @@ grand_parent: Active Labs
 ---
 
 # Lab Name
-[Waterfall Network](https://waterfall.network/)
+[Waterfall Network](https://github.com/LF-Decentralized-Trust-labs/waterfall-docs)
 
 # Short Description
 Waterfall is a highly scalable smart contract network for the development of various decentralized applications (DApps).

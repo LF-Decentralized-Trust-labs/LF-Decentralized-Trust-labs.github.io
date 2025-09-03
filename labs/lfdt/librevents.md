@@ -23,8 +23,8 @@ Key Features:
 
 # Initial Committers
 
-* https://github.com/romanovich23 
-* https://github.com/adovale-IOB 
+* https://github.com/romanovich23
+* https://github.com/adovale-IOB
 
 # Sponsor
 

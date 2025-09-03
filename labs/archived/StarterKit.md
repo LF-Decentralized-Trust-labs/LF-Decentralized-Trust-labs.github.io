@@ -34,7 +34,7 @@ The tool allows to get experience with capabilities of :
 # Initial Committers
 
 - https://github.com/ravinayag
-- Name - Ravi Vasagam | ravinayag@gmail.com | Active Member - HL-LMDWG , HL-India Chapter 
+- Name - Ravi Vasagam | ravinayag@gmail.com | Active Member - HL-LMDWG , HL-India Chapter
 
 # Sponsor
 

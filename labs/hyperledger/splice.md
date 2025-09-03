@@ -17,7 +17,7 @@ Reference applications for funding, operating, and incentivizing the use of a de
 
 Splice is a set of reference applications designed to allow entities to operate, fund, and govern publicly available decentralized Canton synchronizers that provide connectivity and interoperability infrastructure for the Canton Network, as well as to provide bootstrapping rewards and incentives to early users of that service. The Canton Network is the set of all applications, built using the Daml blockchain application platform, that form shared blockchain state via the Canton Protocol.
 
-Splice introduces a reference method for operating a publicly available decentralized Canton synchronizer. Each node in the decentralized synchronizer is operated by an entity known in Splice as a "Super Validator". Splice refers to a group of Super Validators actively operating nodes in a decentralized synchronizer at any point in time as the "decentralized synchronizer operator" (dso). The Splice code uses a code construct called a "decentralized synchronizer operator party" (dso party) to accumulate signatures from and take actions on behalf of the currently-active set of Super Validators.  
+Splice introduces a reference method for operating a publicly available decentralized Canton synchronizer. Each node in the decentralized synchronizer is operated by an entity known in Splice as a "Super Validator". Splice refers to a group of Super Validators actively operating nodes in a decentralized synchronizer at any point in time as the "decentralized synchronizer operator" (dso). The Splice code uses a code construct called a "decentralized synchronizer operator party" (dso party) to accumulate signatures from and take actions on behalf of the currently-active set of Super Validators.
 
 Splice aims to help Super Validator operating groups create a transparent economic ecosystem that will, over time, fund operations of and extensions to multiple public synchronization services in the Canton Network.
 
@@ -120,7 +120,7 @@ The following diagram shows how the Splice applications interact with the Daml p
 
 The Validator module contains the Wallet module and the Traffic Acquisition module.
 
-The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app. 
+The SV App module contains the Amulet smart contract code and the Amulet configuration variables, as well as the Synchronizer Governance app.
 
 
 # Initial Committers

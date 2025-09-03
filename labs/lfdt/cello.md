@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Cello
+[Cello](https://github.com/hyperledger-cello)
 
 # Short Description
 Cello

@@ -7,7 +7,7 @@ parent: Archived Labs
 Ethercluster
 
 # Short Description
-Ethercluster is an open-source design specification for building scalable blockchain infrastructure using the latest infra-as-code tools such as Terraform, Kubernetes and Docker containers. 
+Ethercluster is an open-source design specification for building scalable blockchain infrastructure using the latest infra-as-code tools such as Terraform, Kubernetes and Docker containers.
 The Ethercluster project is seen as an open-source alternative to using Infura by having control over a cluster of nodes that can serve as part of the developers decentralized-application architecture strategy.
 Website for Ethercluster is: https://www.ethercluster.com/
 Documentation for running custom Ethercluster: https://docs.ethercluster.com/

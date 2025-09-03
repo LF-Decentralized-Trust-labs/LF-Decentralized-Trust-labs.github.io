@@ -20,7 +20,7 @@ In Hyperledger Fabric, developers can use general purpose programming languages,
 Compared to using domain specific languages (DSLs) like Solidity of Ethereum, the efforts of implementing smart contracts are smaller since developers do not need to study new language for smart contracts.
 On the other hand, there are some pitfalls when developers use general purpose programming languages for implementing smart contracts.
 For instance, Solidity does not have a method to generate random value since it easily causes different states during nodes which execute the smart contract including random value generation.
-Different to Solidity, general purpose programming languages such as Golang typically have a method to generate random value. 
+Different to Solidity, general purpose programming languages such as Golang typically have a method to generate random value.
 Therefore, we think there are needs for a tool to detect such blockchain related potential risks quickly.
 
 # Initial Committers

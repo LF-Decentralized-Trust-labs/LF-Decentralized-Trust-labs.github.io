@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Mosaique
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Mosaique Decentralized Workflows](https://github.com/hyperledger-labs/mosaique-decentralized-workflows)
@@ -12,8 +11,8 @@ Mosaique provides an approach to build decentralized workflows for permissioned 
 
 # Scope of Lab
 The scope of Mosaique is to provide several useful features to blockchain projects.
-- To develop an enterprise-grade component that can be included in other blockchain projects to facilitate business workflows.  
-- To provide decentralized governance out-of-the-box for blockchain applications.  
+- To develop an enterprise-grade component that can be included in other blockchain projects to facilitate business workflows.
+- To provide decentralized governance out-of-the-box for blockchain applications.
 - To give stakeholders the ability to design or modify workflows using visual tools.
 - To provide data-driven workflows that do not require the development, installation, and approval of chaincode to implement.
 - To allow for approval of new workflows and changes by visual inspection instead of code auditing.
@@ -24,4 +23,4 @@ https://github.com/dave-promulgare
 https://github.com/volodyatan
 
 # Sponsor
-John Carpenter - Co-Chair of the Hyperledger Learning Materials Development Working Group 
+John Carpenter - Co-Chair of the Hyperledger Learning Materials Development Working Group

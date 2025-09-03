@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-OpenOrigins HOPrS v1.0
+[OpenOrigins HOPrS v1.0](https://github.com/LF-Decentralized-Trust-labs/HOPrS)
 
 # Short Description
 HOPrS (Human-Oriented Proof System) is a cryptographic framework that establishes trust in digital media through decentralized authentication and immutable provenance verification. HOPrS fingerprints digital content to detect manipulations and provide proof of authenticity. This solution addresses the challenges of misinformation, synthetic media, and copyright infringement, offering a scalable, open-source system.

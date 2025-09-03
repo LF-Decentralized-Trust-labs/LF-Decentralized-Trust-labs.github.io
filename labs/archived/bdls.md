@@ -7,12 +7,12 @@ parent: Archived Labs
 [BDLS](https://github.com/hyperledger-labs/bdls)
 
 # Short Description
-BDLS is an innovative BFT consensus algorithm that features safety and liveness by presenting a mathematically proven secure BFT protocol that is resilient in open networks such as the Internet. BDLS overcomes many problems, such as DoS attacks, as well as the deadlock problem caused by unreliable p2p broadcast channels. These problems are all very relevant to existing realistic open network scenarios, and are the focus of extensive work in improving Internet security, but it is an area largely ignored by most in mainstream BFT protocol design. 
+BDLS is an innovative BFT consensus algorithm that features safety and liveness by presenting a mathematically proven secure BFT protocol that is resilient in open networks such as the Internet. BDLS overcomes many problems, such as DoS attacks, as well as the deadlock problem caused by unreliable p2p broadcast channels. These problems are all very relevant to existing realistic open network scenarios, and are the focus of extensive work in improving Internet security, but it is an area largely ignored by most in mainstream BFT protocol design.
 (Paper: https://eprint.iacr.org/2019/1460.pdf)
 
 
 # Scope of Lab
-BDLS consensus protocol is BFT protocol that has been submitted for consideration to be integrated into Hyperledger Fabric as an ordering service. 
+BDLS consensus protocol is BFT protocol that has been submitted for consideration to be integrated into Hyperledger Fabric as an ordering service.
 
 # Initial Committers
 
@@ -28,4 +28,4 @@ BDLS consensus protocol is BFT protocol that has been submitted for consideratio
 
 - https://github.com/yonggewang/bdls (main repository)
 - https://github.com/yonggewang/bdls/blob/master/README.md (README)
- 
+

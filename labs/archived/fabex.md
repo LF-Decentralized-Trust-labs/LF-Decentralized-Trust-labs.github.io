@@ -13,7 +13,7 @@ The aim of this tool is to provide microservice which augments and index the led
 Fabex exposes set of GRPC APIs to execute provenance queries over ledger data, moreover it provides an abstract DB interface allowing to integrate different DB engines, whereas out of box supported:
 
    - MongoDB
- 
+
    - CassandraDB
 
 DB storage interface:
@@ -38,7 +38,7 @@ This tool could be integrated and deployed as a microservice, at the same time c
 - https://github.com/Mikelle
 
 # Sponsor
-- https://github.com/C0rWin - HLF maintainer 
+- https://github.com/C0rWin - HLF maintainer
 
 # Pre-existing repository
 - https://github.com/vadiminshakov/fabex

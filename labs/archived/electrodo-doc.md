@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Electrodo.Docs
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
-# Lab Name 
+# Lab Name
 [Electrodo.Docs](https://github.com/hyperledger-labs/Electrodo.Docs)
 
-# Short Description 
+# Short Description
 
 Electrodo is a Web3 platform for ESG data, asset, and risk management, helping companies and investors create sustainable value and improve the efficiency of sustainable capital allocation. By addressing ESG data availability, integrity, and reliability issues, Electrodo streamlines the ESG asset management, such as tokenized clean energy, carbon emissions, carbon credits, ESG stocks (shares),  etc.
 Electrodo digitizes and automates the collection, processing, verification, and sharing (disclosure) of financially material ESG data between the double-pole stakeholders (industrial producer and investor) value chain by obtaining and processing data from various sources with data notarization and verification on a blockchain.
@@ -16,7 +15,7 @@ Electrodo solves the problem of ESG data availability, completeness, integrity, 
 
 Moreover, SMEs can set their own ESG impact targets and follow up on their progress, where those targets and progress measures may also be accessed by investors, asset managers, or private equity funds interested in investing and allocating capital in those sustainable businesses. This demonstrates the understanding and ability to effectively manage a business with a simultaneous positive impact on ESG factors.
 
-# Scope of Lab 
+# Scope of Lab
 In Hyperledger Labs, we develop an Electrodo.Docs (Fig. 1) - document management service of Electrodo platform.
 
 ![Fig.1](../images/ElectrodoDocImg.png)
@@ -43,7 +42,7 @@ Collaborative decision-making is pivotal in ESG/Sustainability reporting. Electr
 
 
 
-# Initial Committers 
+# Initial Committers
 
 https://github.com/bismerk
 
@@ -55,8 +54,8 @@ https://github.com/Dmitrii-Kholodov
 
 https://github.com/roman-kravchenko
 
-# Sponsor 
+# Sponsor
 482.solutions is a Singapore-based international company with headquarter in Ukraine, specializing in the development of industrial Web3 and blockchain-based solutions for the Green Energy, Green Finance, and Sustainable Value Chain sectors.
 
-# Pre-existing repository 
+# Pre-existing repository
 https://github.com/482solutions/ElectrodoDoc-meta

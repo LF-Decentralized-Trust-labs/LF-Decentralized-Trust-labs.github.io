@@ -71,9 +71,9 @@ Various software to support the development of cross-chain systems
 
 
 # Initial Committers
-- https://github.com/bluele
-- https://github.com/3100
-- https://github.com/siburu
+- [Jun Kimura](https://github.com/bluele)
+- [Ryo Sato](https://github.com/3100)
+- [YOSHIDA Masanori](https://github.com/siburu)
 
 
 # Pre-existing repository

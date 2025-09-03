@@ -12,7 +12,7 @@ Sawtooth Healthcare is a blockchain application built on Hyperledger Sawtooth, a
 
 # Scope of Lab
 
-The scope of the lab is to develop a proof of concept (POC) for a blockchain-based solution that covers the most common use case in healthcare. 
+The scope of the lab is to develop a proof of concept (POC) for a blockchain-based solution that covers the most common use case in healthcare.
 
 Also, this repo can be used for practical needs with Sawtooth blockchain since it covers/will cover most of components required to build dApp.
 

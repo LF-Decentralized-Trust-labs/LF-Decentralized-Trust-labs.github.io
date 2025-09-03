@@ -4,7 +4,7 @@ title: Hyperledger Fabric Private Chaincode
 parent: Archived Labs
 ---
 # Lab Name
-Hyperledger Fabric Private Chaincode 
+Hyperledger Fabric Private Chaincode
 
 # Short Description
 This lab enables the execution of chaincodes using Intel SGX for

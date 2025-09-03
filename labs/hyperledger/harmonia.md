@@ -17,9 +17,9 @@ Initiatives such as Hyperledger Cacti and YUI, a Hyperledger Lab, as well as the
 
 In parallel, firms focused more tightly on solving interoperability challenges in the specific domain of the emerging regulated financial networks have been working on bilateral implementations, in many cases in tight collaboration with lawyers and domain specialists. This work has been mostly, although not exclusively, confidential.
 
-As a result, those working on these initial regulated interoperability scenarios have not been able to fully exploit the work of the projects listed above, and those projects have not been privy to some of the unique requirements that have emerged, and design principles that they result in. 
+As a result, those working on these initial regulated interoperability scenarios have not been able to fully exploit the work of the projects listed above, and those projects have not been privy to some of the unique requirements that have emerged, and design principles that they result in.
 
-The purpose of Harmonia is to bridge this gap, and facilitate a harmonisation of approaches to increase clarity and commonality for all participants. 
+The purpose of Harmonia is to bridge this gap, and facilitate a harmonisation of approaches to increase clarity and commonality for all participants.
 
 Unlike Hyperledger Cacti and YUI, Harmonia is not a new interoperability framework. And, unlike the work of the Enterprise Ethereum Alliance's Interoperability Working Group, Harmonia is not intended to define a standard.
 
@@ -46,4 +46,4 @@ As such, the emphasis of the Lab is more weighted towards documentation and a ve
 
 # Pre-existing repository
 
-- https://github.com/AdharaProjects/Crosschain-Interop 
+- https://github.com/AdharaProjects/Crosschain-Interop

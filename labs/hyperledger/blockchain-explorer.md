@@ -8,12 +8,12 @@ grand_parent: Active Labs
 [Blockchain Explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 
 # Short Description
-Blockchain Explorer is a simple, powerful, easy-to-use, well-maintained, open-source utility to browse activity 
-on the underlying blockchain network. 
+Blockchain Explorer is a simple, powerful, easy-to-use, well-maintained, open-source utility to browse activity
+on the underlying blockchain network.
 
 # Scope of Lab
 - Enhance the existing application in-terms of new features
-- Make it compatible with latest version of Hyperledger Fabric 
+- Make it compatible with latest version of Hyperledger Fabric
 - Uplift the user-interface with the robust design
 - Test-cases and documentation
 
