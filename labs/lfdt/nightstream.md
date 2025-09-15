@@ -147,4 +147,4 @@ NightStream operates as an open, community-driven project following the these ke
 This approach ensures that NightStream delivers practical value to the decentralized trust ecosystem while maintaining realistic expectations about performance, security, and deployment complexity.
 
 **Future Growth**
-As the project matures and its community grows, we will follow the guidelines to transition from a Labs project to a full, incubating LFDT project, given the scope of the labs, potentially multiple, related projects. Our goal is to build a foundation that can scale and become a long-term, self-sustaining part of the LFDT ecosystem.
+As the lab matures and its community grows, we will follow the guidelines to transition from Labs to a full, incubating LFDT project, or given the scope of the lab, potentially multiple, related projects. Our goal is to build a foundation that can scale and become a long-term, self-sustaining part of the LFDT ecosystem.
