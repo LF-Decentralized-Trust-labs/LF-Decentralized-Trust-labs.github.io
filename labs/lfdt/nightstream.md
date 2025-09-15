@@ -7,7 +7,7 @@ grand_parent: Active Labs
 # NightStream
 
 # Short Description
-NightStream is an open-source initiative developing a post-quantum zero-knowledge proof system that balances performance, security, and practical deployment constraints. The project focuses on creating a transparent, lattice-based architecture that provides realistic performance improvements while maintaining post-quantum security guarantees.
+NightStream is an open-source initiative developing a post-quantum zero-knowledge proof system that balances performance, security, and practical deployment constraints. The lab focuses on creating a transparent, lattice-based architecture that provides realistic performance improvements while maintaining post-quantum security guarantees.
 
 # Scope of Lab
 NightStream aims to advance the state of zero-knowledge proof technology by developing a system that addresses the fundamental trade-offs between prover time, proof size, and verifier cost. The lab's scope encompasses:
