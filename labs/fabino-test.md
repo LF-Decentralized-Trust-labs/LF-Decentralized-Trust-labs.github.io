@@ -43,6 +43,10 @@ advanced test scenarios.
 
 - https://github.com/aminchegeni
 
+# Sponsor
+
+- https://github.com/petermetz - Role (Member of the Technical Advisory Council (**TAC**) of the **LFDT**)
+
 # Pre-existing repository
 
 - https://github.com/aminchegeni/fabino-test
