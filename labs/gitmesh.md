@@ -1,6 +1,8 @@
 ---
 layout: default
 title: GitMesh Lab Proposal
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 
 # Lab Name
