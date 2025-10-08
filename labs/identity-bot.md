@@ -1,8 +1,8 @@
 ---
 layout: default
 title: IdentityBot
-[//]: # parent: LFDT Labs
-[//]: # grand_parent: Active Labs
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 Identity Bot
