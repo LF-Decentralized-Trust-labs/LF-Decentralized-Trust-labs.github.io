@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Hyperledger Fabric Rust Integration
+[Hyperledger Fabric Rust Integration](https://github.com/LF-Decentralized-Trust-labs/fabric-sdk-rust)
 
 # Short Description
 Integration of the rust language in the hyperledger fabric ecosystem
@@ -15,7 +15,8 @@ This lab focuses on supporting chaincode written in Rust and providing a library
 The whole implementation of the Rust integration will be oriented on the implementation of the Java libraries.
 
 # Initial Committers
-- (GitHub Arne Fuchs)[https://github.com/arne-fuchs] - (Discord Frank The Fish)[https://discordapp.com/users/197766611346653184]
+- (GitHub Arne Fuchs)[https://github.com/arne-fuchs]
+- (Discord Frank The Fish)[https://discordapp.com/users/197766611346653184]
 
 
 # Sponsor

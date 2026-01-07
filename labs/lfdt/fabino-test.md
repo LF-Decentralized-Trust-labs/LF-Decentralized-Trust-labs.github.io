@@ -7,7 +7,7 @@ grand_parent: Active Labs
 
 # Lab Name
 
-Fabino Junit5 Test Extension
+[Fabino Junit5 Test Extension](https://github.com/LF-Decentralized-Trust-labs/fabino-test)
 
 # Short Description
 

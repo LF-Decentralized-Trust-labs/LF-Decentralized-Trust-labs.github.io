@@ -1,7 +1,8 @@
 ---
 layout: default
 title: ChainLaunch
-parent: Labs
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 [ChainLaunch](https://github.com/LF-Decentralized-Trust-labs/chaindeploy)

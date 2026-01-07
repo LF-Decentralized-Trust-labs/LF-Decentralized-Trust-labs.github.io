@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-fabric-chaincode-builder
+[fabric-chaincode-builder](https://github.com/hyperledger-labs/fabric-chaincode-builder)
 
 # Short Description
 fabric-chaincode-builder is a Hyperledger Fabric tool that provides a standard environment for building chaincode (smart contracts). It defines how chaincode is packaged and built across different programming languages, ensuring compatibility with the Fabric peer runtime.
