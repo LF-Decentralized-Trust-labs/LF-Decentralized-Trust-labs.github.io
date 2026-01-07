@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [CBWEB3](https://github.com/LF-Decentralized-Trust-labs/cbweb3)
 
 # Short Description

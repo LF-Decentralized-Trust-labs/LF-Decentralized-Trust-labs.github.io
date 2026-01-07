@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [OpenOrigins HOPrS v1.0](https://github.com/LF-Decentralized-Trust-labs/HOPrS)
 
 # Short Description

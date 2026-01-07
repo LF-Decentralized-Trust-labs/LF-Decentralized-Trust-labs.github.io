@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [Generic zk-SNARKs](https://github.com/LF-Decentralized-Trust-labs/zkproof-polycommit)
 
 # Short Description

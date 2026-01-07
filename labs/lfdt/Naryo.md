@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Librevents
+title: Naryo
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Librevents
+
+[Naryo](https://github.com/LF-Decentralized-Trust-labs/Naryo)
 
 # Short Description
 A multi-chain tool for capturing and processing events from DLT networks. This project is based on [Eventeum](https://github.com/eventeum/eventeum).

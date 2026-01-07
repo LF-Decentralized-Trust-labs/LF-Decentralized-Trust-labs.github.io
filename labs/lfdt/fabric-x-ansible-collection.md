@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [Fabric-X Ansible Collection](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection)
 
 # Short Description

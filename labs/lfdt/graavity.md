@@ -4,8 +4,11 @@ title: Graavity
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
+
 # Lab Name
+
 [Graavity](https://github.com/graavity-io/graavity_io)
+
 # Short Description
 Creating a high-throughput DLT for transaction processing and storing on-chain data with Byzantine Fault Tolerance.
 

@@ -6,6 +6,7 @@ grand_parent: Active Labs
 ---
 
 # Lab Name
+
 [GitMesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)
 
 # Short Description

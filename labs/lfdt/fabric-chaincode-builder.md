@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [fabric-chaincode-builder](https://github.com/hyperledger-labs/fabric-chaincode-builder)
 
 # Short Description
