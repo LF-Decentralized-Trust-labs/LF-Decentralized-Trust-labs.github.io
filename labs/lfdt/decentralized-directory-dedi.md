@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [Decentralized Directory (DeDi)](https://github.com/LF-Decentralized-Trust-labs/DeDi)
 
 ## Short Description

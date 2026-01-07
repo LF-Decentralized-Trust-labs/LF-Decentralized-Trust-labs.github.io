@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [Hyperledger Fabric Rust Integration](https://github.com/LF-Decentralized-Trust-labs/fabric-sdk-rust)
 
 # Short Description

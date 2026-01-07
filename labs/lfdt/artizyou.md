@@ -5,8 +5,8 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-[ArtizYou Trust Lab](https://github.com/LF-Decentralized-Trust-labs/artizyou)
 
+[ArtizYou Trust Lab](https://github.com/LF-Decentralized-Trust-labs/artizyou)
 
 # Short Description
 Decentralized platform connecting creative professionals with blockchain-verified credentials, smart contract agreements, and AI-powered plagiarism detection for images and text.

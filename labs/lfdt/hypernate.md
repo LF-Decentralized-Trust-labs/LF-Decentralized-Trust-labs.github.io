@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [Hypernate](https://github.com/LF-Decentralized-Trust-labs/hypernate)
 
 # Short Description

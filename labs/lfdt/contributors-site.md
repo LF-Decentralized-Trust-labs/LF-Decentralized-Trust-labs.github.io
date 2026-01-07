@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
+
 [Contributors Site](https://github.com/LF-Decentralized-Trust/contribute)
 
 # Short Description
