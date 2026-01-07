@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Hypernate
+[Hypernate](https://github.com/LF-Decentralized-Trust-labs/hypernate)
 
 # Short Description
 A robust data mapper framework for JVM-based Hyperledger Fabric chaincode.

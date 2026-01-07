@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Generic zk-SNARKs
+[Generic zk-SNARKs](https://github.com/LF-Decentralized-Trust-labs/zkproof-polycommit)
 
 # Short Description
 This is an effort led by the Privacy & Scaling Explorations (Ethereum Foundation) zkID team to standardise generic zk-SNARKs.

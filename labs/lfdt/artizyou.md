@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-ArtizYou Trust Lab
+[ArtizYou Trust Lab](https://github.com/LF-Decentralized-Trust-labs/artizyou)
 
 
 # Short Description

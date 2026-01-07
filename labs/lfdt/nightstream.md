@@ -5,6 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # NightStream
+[NightStream](https://github.com/LFDT-Nightstream/Nightstream)
 
 # Short Description
 NightStream is an open-source initiative developing a post-quantum zero-knowledge proof system that balances performance, security, and practical deployment constraints. The lab focuses on creating a transparent, lattice-based architecture that provides realistic performance improvements while maintaining post-quantum security guarantees.

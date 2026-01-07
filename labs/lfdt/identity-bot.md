@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-Identity Bot
+[Identity Bot](https://github.com/LF-Decentralized-Trust-labs/identity-bot)
 
 # Short Description
 IdentityBot is a decentralized governance layer for the internet, empowering users to control their data and digital rights through self-hosted 'Identity Agents.' These agents consolidate fragmented identities, manage consent, and standardize data exchange, providing a universal framework and set of tools to end 'Identity Chaos.'

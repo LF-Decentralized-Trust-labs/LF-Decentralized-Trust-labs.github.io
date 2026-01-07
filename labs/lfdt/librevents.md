@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Librevents
-parent: Labs
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 Librevents

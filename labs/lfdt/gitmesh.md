@@ -6,7 +6,7 @@ grand_parent: Active Labs
 ---
 
 # Lab Name
-GitMesh
+[GitMesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)
 
 # Short Description
 GitMesh is an intelligent Git collaboration network that uses AI to guide contributors toward mergeable contributions while helping enterprises safely adopt and fund quality open source projects.
