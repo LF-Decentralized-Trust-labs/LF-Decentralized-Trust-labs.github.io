@@ -1,0 +1,31 @@
+---
+layout: default
+title: 5G-Advanced / 6G Decentralized Trust Lab
+parent: LFDT Labs
+grand_parent: Active Labs
+---
+
+# Lab Name
+5G-Advanced / 6G Decentralized Trust Lab
+
+# Short Description
+A research and development lab focused on decentralized trust, identity, and authorization mechanisms for 5G-Advanced and future 6G telecom networks using blockchain and distributed ledger technologies.
+
+# Scope of Lab
+The 5G-Advanced / 6G Decentralized Trust Lab explores how decentralized technologies—particularly permissioned and public blockchains—can be applied to enhance trust, security, and interoperability in modern and next-generation telecom networks.
+
+The lab focuses on decentralized identity, authorization, and trust management for telecom service-based architectures, including 5G Core (3GPP Release 18+ / 5G-Advanced) and forward-looking 6G concepts. A key objective is to reduce central points of trust in telecom control planes by leveraging distributed ledgers to provide immutability, auditability, and shared governance for critical security artifacts.
+
+Future work will explore cross-operator trust, decentralized identity, zero-trust security models, and interoperability challenges relevant to large-scale 5G-Advanced and 6G deployments.
+
+
+# Initial Committers
+- https://github.com/Rudrakshrawal
+
+# Sponsor
+_TBD_
+
+# Pre-existing repository
+- https://github.com/Rudrakshrawal/LFDT
+
+
