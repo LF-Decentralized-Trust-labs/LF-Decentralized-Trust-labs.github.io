@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 5G-Advanced / 6G Decentralized Trust Lab
+title: OpenDecentra-NextG
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
 
 # Lab Name
-5G-Advanced / 6G Decentralized Trust Lab
+OpenDecentra-NextG
 
 # Short Description
 A research and development lab focused on decentralized trust, identity, and authorization mechanisms for 5G-Advanced and future 6G telecom networks using blockchain and distributed ledger technologies.
