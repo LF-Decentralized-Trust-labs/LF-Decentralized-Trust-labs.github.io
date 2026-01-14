@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-[Fabric-X Block Explorer](https://github.com/hyperledger-labs/fabric-x-block-explorer)
+[Fabric-X Block Explorer](https://github.com/LF-Decentralized-Trust-labs/fabric-x-block-explorer)
 
 # Short Description
 The Fabric-X Block Explorer ingests, processes, and stores real-time blockchain data to enable easy visibility and analysis of network activity.
