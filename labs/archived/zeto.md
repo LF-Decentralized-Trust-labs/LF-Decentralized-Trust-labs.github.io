@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Zeto
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 
 # Lab Name
 
-[Zeto](https://github.com/hyperledger-labs/zeto)
+[Zeto](https://github.com/LFDT-Paladin/zeto)
 
 # Short Description
 

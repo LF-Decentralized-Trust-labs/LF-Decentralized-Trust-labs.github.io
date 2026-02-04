@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Paladin
-parent: LFDT Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 
 # Lab Name
 
-[Paladin](https://github.com/lf-decentralized-trust-labs/paladin)
+[Paladin](https://github.com/LFDT-Paladin/paladin)
 
 # Short Description
 
