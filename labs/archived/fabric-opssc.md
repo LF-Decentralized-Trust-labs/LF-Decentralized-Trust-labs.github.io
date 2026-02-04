@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Operations Smart Contract for Hyperledger Fabric
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Operations Smart Contract for Hyperledger Fabric](https://github.com/hyperledger-labs/fabric-opssc)

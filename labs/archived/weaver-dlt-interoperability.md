@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Weaver DLT Interoperability
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Weaver: DLT Interoperability](https://github.com/hyperledger-labs/weaver-dlt-interoperability)

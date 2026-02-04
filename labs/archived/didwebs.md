@@ -1,8 +1,7 @@
 ---
 layout: default
 title: did:webs DID Method Implementation
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 
 # did:webs DID Method Implementation

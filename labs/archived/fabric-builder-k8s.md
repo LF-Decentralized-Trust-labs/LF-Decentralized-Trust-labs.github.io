@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Hyperledger Fabric Chaincode Builder for Kubernetes
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Hyperledger Fabric Chaincode Builder for Kubernetes](https://github.com/hyperledger-labs/fabric-builder-k8s)
