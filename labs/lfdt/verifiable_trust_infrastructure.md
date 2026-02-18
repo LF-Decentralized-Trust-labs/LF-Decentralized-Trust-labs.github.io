@@ -1,17 +1,17 @@
 ---
 layout: default
-title: OpenVTC
+title: Verifiable Trust Infrastructure (VTI)
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
 
 # Lab Name
 
-OpenVTC
+Verifiable Trust Infrastructure (VTI)
 
 # Short Description
 
-Reference implementation of the LFDT ToIP Decentralized Trust Graph Working Group specifications for components of a verifiable trust community (VTC) specific to open-source projects/communities.
+Reference implementation of the LFDT ToIP Decentralized Trust Graph Working Group specifications for components of a verifiable trust community (VTC).
 
 # Scope of Lab
 
@@ -19,7 +19,12 @@ The [Decentralized Trust Graph Working Group](https://lf-toip.atlassian.net/wiki
 
 Every node in a decentralized trust graph (DTG), including people, AI agents, devices, and VTCs, are represented by a verifiable trust agent (VTA). The DTGWG also specifies protocols for standard VTA trust tasks such as generating VTC invitations, issuing/verifying/revoking DTG VCs, and reading/writing/enforcing VTC governance policies.
 
-The scope of the OpenVTC project includes developer SDKs and reference implementations of the components necessary to implement VTAs and VTCs. The initial target communities are LF open source projects including the Linux kernel, Kubernetes, Open Telemetry, etc.
+The scope of the VTI project includes the following components:
+
+- Verifiable Trust Agent (VTA) - key management, DID management for any entity
+- Verifiable Trust Community (VTC) - Community Management services
+- Personal Network Manager (PNM) - How to manage an individual VTA
+- Community Network Manager (CNM) - How to manage a VTC
 
 # Initial Committers
 
