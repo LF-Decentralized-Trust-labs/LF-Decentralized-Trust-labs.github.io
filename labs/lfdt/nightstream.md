@@ -32,7 +32,7 @@ NightStream aims to advance the state of zero-knowledge proof technology by deve
 - Documentation and learning resources for the ZK community
 
 **Practical Deployment:**
-- Multi-platform verification support (EVM, Move, WASM, Plutus, Compact (AKA Project Mitra))
+- Multi-platform verification support (EVM, Move, WASM, Plutus, Compact (AKA Project Minokawa))
 - On-chain integration strategies with realistic gas cost targets
 - Proof aggregation for blockchain scalability applications
 - Data availability proof generation for rollup systems
@@ -56,7 +56,7 @@ The lab operates within LF Decentralized Trust's mission by advancing open-sourc
 - https://github.com/nicarq (Shinkai)
 
 # Sponsor
-- https://github.com/bobblessinghartley  - Role: LFDT Board Member and TSC member for Mitra 
+- https://github.com/bobblessinghartley  - Role: LFDT Board Member and TSC member for Minokawa 
 
 # Pre-existing repository
 Not applicable
