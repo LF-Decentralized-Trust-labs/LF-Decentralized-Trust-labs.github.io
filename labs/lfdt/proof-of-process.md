@@ -19,7 +19,7 @@ This work addresses a critical gap in decentralized trust infrastructure. Existi
 
 
 # Initial Committers
-- https://github.com/davidcondrey
+- https://github.com/dcondrey
 
 # Sponsor
 Seeking sponsor. Hart Montgomery (CTO, LFDT) has reviewed the initial proposal, directed the project to formal GitHub submission, and indicated interest in the underlying research.
