@@ -2,7 +2,7 @@
 layout: default
 title: Blockchain Carbon Accounting
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)

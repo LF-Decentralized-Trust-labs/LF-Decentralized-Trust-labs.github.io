@@ -2,7 +2,7 @@
 layout: default
 title: Fabric-X Block Explorer
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Fabric-X Block Explorer](https://github.com/LF-Decentralized-Trust-labs/fabric-x-block-explorer)

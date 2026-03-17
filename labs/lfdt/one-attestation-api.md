@@ -2,7 +2,7 @@
 layout: default
 title: One Attestation API
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [One Attestation API](https://github.com/LF-Decentralized-Trust-labs/one-attestation-api)

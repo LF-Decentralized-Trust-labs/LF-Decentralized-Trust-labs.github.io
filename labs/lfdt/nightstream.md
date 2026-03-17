@@ -2,7 +2,7 @@
 layout: default
 title: NightStream Lab
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # NightStream
 [NightStream](https://github.com/LFDT-Nightstream/Nightstream)

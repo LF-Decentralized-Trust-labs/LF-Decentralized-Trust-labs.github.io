@@ -2,7 +2,7 @@
 layout: default
 title: Perun
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Perun](https://github.com/hyperledger-labs/go-perun)

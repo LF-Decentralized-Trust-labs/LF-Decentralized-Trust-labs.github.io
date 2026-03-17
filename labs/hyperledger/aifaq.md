@@ -2,7 +2,7 @@
 layout: default
 title: AI FAQ for Hyperledger Ecosystem
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 
 # aifaq

@@ -2,7 +2,7 @@
 layout: default
 title: Splice
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Splice
 [Splice](https://github.com/hyperledger-labs/splice)

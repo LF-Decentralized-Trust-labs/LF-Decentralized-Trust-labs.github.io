@@ -2,7 +2,7 @@
 layout: default
 title: Aries Agent Controller
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Aries Agent Controller Lab](https://github.com/hyperledger-labs/aries-agent-controller)

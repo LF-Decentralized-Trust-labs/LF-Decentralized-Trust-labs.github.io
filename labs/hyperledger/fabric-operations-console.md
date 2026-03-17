@@ -2,7 +2,7 @@
 layout: default
 title: Fabric Operations Console
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Fabric Operations Console](https://github.com/hyperledger-labs/fabric-operations-console)
