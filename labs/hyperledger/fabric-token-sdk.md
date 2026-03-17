@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Fabric Token SDK
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 

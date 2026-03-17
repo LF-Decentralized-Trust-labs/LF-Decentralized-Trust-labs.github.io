@@ -2,7 +2,7 @@
 layout: default
 title: YUI
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [YUI](https://github.com/hyperledger-labs/yui-relayer)

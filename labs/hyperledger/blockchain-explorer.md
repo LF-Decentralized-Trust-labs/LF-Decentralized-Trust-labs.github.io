@@ -2,7 +2,7 @@
 layout: default
 title: Blockchain Explorer
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Blockchain Explorer](https://github.com/hyperledger-labs/blockchain-explorer)

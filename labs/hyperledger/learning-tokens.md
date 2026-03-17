@@ -2,7 +2,7 @@
 layout: default
 title: Learning Tokens
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Learning Tokens](https://github.com/hyperledger-labs/learning-tokens)

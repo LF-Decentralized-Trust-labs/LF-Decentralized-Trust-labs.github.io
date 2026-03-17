@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Fabric Operator for Kubernetes
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Hyperledger Fabric Operator for Kubernetes](https://github.com/hyperledger-labs/fabric-operator)

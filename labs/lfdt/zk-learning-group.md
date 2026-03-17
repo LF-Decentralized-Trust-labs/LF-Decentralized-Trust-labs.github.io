@@ -2,7 +2,7 @@
 layout: default
 title: Zk Learning Group
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Zk Learning Group](https://github.com/LF-Decentralized-Trust-labs/zk-learning-group)

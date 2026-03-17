@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Fabric Connector
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Hyperledger Fabric Connector](https://github.com/hyperledger-labs/hlf-connector)

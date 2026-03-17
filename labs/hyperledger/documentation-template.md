@@ -2,7 +2,7 @@
 layout: default
 title: Documentation Template
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [documentation-template](https://github.com/hyperledger-labs/documentation-template)
