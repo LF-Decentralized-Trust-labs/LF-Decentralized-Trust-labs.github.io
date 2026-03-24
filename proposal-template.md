@@ -34,7 +34,7 @@ The lab complements LFDT’s mission by strengthening the operational foundation
 # Initial Committers
 - https://github.com/ThatGuyLLC
 - Hart Montgomery, Github ID TBD
-- Diane Mueller. Github ID TBD
+- @dmueller2001 
 
 # Sponsor
 - Hart Montgomery - CTO- LFDT
