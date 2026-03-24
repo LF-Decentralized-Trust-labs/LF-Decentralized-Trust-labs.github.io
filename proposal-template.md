@@ -33,7 +33,7 @@ The lab complements LFDT’s mission by strengthening the operational foundation
 
 # Initial Committers
 - https://github.com/ThatGuyLLC
-- Hart Montgomery, Github ID TBD
+- @hartm 
 - @dmueller2001 
 
 # Sponsor
