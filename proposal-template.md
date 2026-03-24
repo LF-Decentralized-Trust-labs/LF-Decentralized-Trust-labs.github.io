@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Open Source Frontiers Lab
-[//]: # parent: "LFDT Labs"_
-[//]: # grand_parent: "Active Labs"_
+parent: LFDT Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 Open Source Frontiers Lab.
