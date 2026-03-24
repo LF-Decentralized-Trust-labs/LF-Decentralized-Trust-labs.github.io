@@ -32,7 +32,6 @@ The lab will produce reference architectures, whitepapers, pilot programs, and i
 The lab complements LFDT’s mission by strengthening the operational foundations required for decentralized technologies to scale sustainably, ensuring that critical open source infrastructure remains secure, maintained, and effectively governed over time._
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
 - https://github.com/ThatGuyLLC
 - Hart Montgomery, Github ID TBD
 - Diane Mueller. Github ID TBD
