@@ -37,7 +37,8 @@ The lab complements LFDT’s mission by strengthening the operational foundation
 - @dmueller2001 
 
 # Sponsor
-- Hart Montgomery - CTO- LFDT
+- @arsulegai 
+- @dmueller2001 
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the LF Decentralized Trust Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
