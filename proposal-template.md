@@ -14,7 +14,7 @@ _Change line 5 to read: "grand_parent: Active Labs"_
 _A research and development lab focused on advancing coordination, governance, and sustainability models for open source systems at the frontier of decentralized ecosystems._
 
 # Scope of Lab
-_The Open Source Frontiers Lab operates as an applied research and incubation environment within LF Decentralized Trust, focused on addressing systemic challenges in open source sustainability, coordination, and long-term maintenance across emerging and decentralized ecosystems.
+The Open Source Frontiers Lab operates as an applied research and incubation environment within LF Decentralized Trust, focused on addressing systemic challenges in open source sustainability, coordination, and long-term maintenance across emerging and decentralized ecosystems.
 
 The lab explores and develops frameworks, reference models, and operational patterns that improve how open source projects are funded, governed, and maintained over time—particularly in frontier environments where traditional models are insufficient or unproven. This includes the design and validation of coordination mechanisms, contributor incentive structures, maintenance funding models, and governance approaches suited for decentralized and rapidly evolving systems.
 
