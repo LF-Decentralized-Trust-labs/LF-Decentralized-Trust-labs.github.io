@@ -5,10 +5,7 @@ title: Open Source Frontiers Lab
 [//]: # grand_parent: "Active Labs"_
 ---
 # Lab Name
-_Open Source Frontiers Lab. **NOTE: When picking a name for your lab, note that a lab CANNOT be named the same as a product, network or any other existing entity.  Open source code should have a distinct identity from any instance of that code being used as a product or service.  If you do name your lab after a product or service note that you will need to change it later.**_
-_Change line 3 of this file to reflect the short name of your project._
-_Change line 4 to read: "parent: LFDT Labs"_
-_Change line 5 to read: "grand_parent: Active Labs"_
+Open Source Frontiers Lab.
 
 # Short Description
 A research and development lab focused on advancing coordination, governance, and sustainability models for open source systems at the frontier of decentralized ecosystems.
