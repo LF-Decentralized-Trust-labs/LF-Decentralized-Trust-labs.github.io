@@ -46,4 +46,4 @@ _Provide the name of your sponsor. A sponsor is optional, but the sponsor must b
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the LF Decentralized Trust Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- I will add fiels to this proejct directly, no repos needing to be forked.
+- I will add fiels to this project directly, no repos needing to be forked.
