@@ -37,7 +37,6 @@ The lab complements LFDT’s mission by strengthening the operational foundation
 - Diane Mueller. Github ID TBD
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the LF Decentralized Trust projects, a TAC member, or a SIG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
 - Hart Montgomery - CTO- LFDT
 
 # Pre-existing repository
