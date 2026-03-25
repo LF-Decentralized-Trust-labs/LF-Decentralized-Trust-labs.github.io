@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Benchmarking Cross-Chain Bridges
-parent: Hyperledger Labs
-grand_parent: Approved Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Benchmarking Cross-Chain Bridges](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges)

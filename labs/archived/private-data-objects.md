@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Private Data Objects
-parent: Hyperledger Labs
-grand_parent: Approved Labs
+parent: Archived Labs
 ---
 # Lab Name
 [Private Data Objects](https://github.com/hyperledger-labs/private-data-objects)
