@@ -1,6 +1,6 @@
 # Lab Name
 
-OpenReagent
+[OpenReagent](https://github.com/OpenReagent)
 
 # Short Description
 
