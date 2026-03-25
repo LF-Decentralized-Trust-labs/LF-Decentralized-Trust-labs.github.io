@@ -7,7 +7,7 @@ grand_parent: Approved Labs
 
 # Lab Name
 
-OpenVTC
+[OpenVTC](https://github.com/OpenVTC)
 
 # Short Description
 

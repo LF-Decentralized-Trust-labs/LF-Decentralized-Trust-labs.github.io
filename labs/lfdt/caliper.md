@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Approved Labs
 ---
 # Lab Name
-Hyperledger Caliper
+[Hyperledger Caliper](https://github.com/hyperledger-caliper)
 
 # Short Description
 This is a proposal to move Hyperledger Caliper into LFDT Labs. The task is mainly administrative since Caliper already has a separate, self-contained LFDT GitHub organization [here](https://github.com/hyperledger-caliper).

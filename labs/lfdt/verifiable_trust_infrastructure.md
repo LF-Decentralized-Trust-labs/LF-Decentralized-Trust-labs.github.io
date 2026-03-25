@@ -7,7 +7,7 @@ grand_parent: Approved Labs
 
 # Lab Name
 
-Verifiable Trust Infrastructure (VTI)
+[Verifiable Trust Infrastructure (VTI)](https://github.com/OpenVTC/verifiable-trust-infrastructure)
 
 # Short Description
 

@@ -5,7 +5,7 @@ parent: LFDT Labs
 grand_parent: Approved Labs
 ---
 # Lab Name
-Proof-of-Process
+[Proof-of-Process](https://github.com/LF-Decentralized-Trust-labs/proof-of-process)
 
 # Short Description
 A protocol and reference implementation for Proof-of-Process (PoP) attestation — cryptographic verification that digital actions originated from human cognitive processes rather than synthetic generation, built on the IETF RATS framework.

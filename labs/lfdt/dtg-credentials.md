@@ -7,7 +7,7 @@ grand_parent: Approved Labs
 
 # Lab Name
 
-Decentralized Trust Graph (DTG) Credentials
+[Decentralized Trust Graph (DTG) Credentials](https://github.com/OpenVTC)
 
 # Short Description
 
