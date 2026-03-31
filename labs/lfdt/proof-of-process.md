@@ -22,7 +22,9 @@ This work addresses a critical gap in decentralized trust infrastructure. Existi
 - https://github.com/dcondrey
 
 # Sponsor
-Seeking sponsor. Hart Montgomery (CTO, LFDT) has reviewed the initial proposal, directed the project to formal GitHub submission, and indicated interest in the underlying research.
+Hart Montgomery (CTO, LFDT) has reviewed the initial proposal, directed the project to formal GitHub submission, and indicated interest in the underlying research.
+
+The Trust Over IP (ToIP) Decentralized Trust Graph Working Group (DTGWG) is pleased to sponsor this work as a Proof of Process credential has significant value in the context of a decentralized trust graph, and can also be a component to a proof of personhood credential. DTGWG co-chair Drummond Reed has reviewed the proposal and recomnmends its inclusion as a LFDT Lab.
 
 # Pre-existing repository
 The lab will use a new repository. Related prior work is available at https://github.com/WritersLogic/witnessd, which serves as the basis for the reference implementation to be contributed.
