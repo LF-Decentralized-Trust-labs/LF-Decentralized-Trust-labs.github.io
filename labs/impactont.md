@@ -7,7 +7,7 @@ grand_parent: Active Labs
 
 # Lab Name
 
-impactont
+https://github.com/Semantic-Frameworks/impactont
 
 # Short Description
 
