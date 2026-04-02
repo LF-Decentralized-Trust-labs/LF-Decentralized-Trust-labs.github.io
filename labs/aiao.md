@@ -7,7 +7,7 @@ grand_parent: Active Labs
 
 # Lab Name
 
-aiao
+https://github.com/Semantic-Frameworks/aiao
 
 # Short Description
 
