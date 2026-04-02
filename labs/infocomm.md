@@ -7,7 +7,7 @@ grand_parent: Active Labs
 
 # Lab Name
 
-infocomm
+https://github.com/Semantic-Frameworks/infocomm
 
 # Short Description
 
