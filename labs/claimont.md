@@ -7,7 +7,7 @@ grand_parent: Active Labs
 
 # Lab Name
 
-claimont
+https://github.com/Semantic-Frameworks/claimont
 
 # Short Description
 
