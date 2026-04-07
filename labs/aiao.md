@@ -17,21 +17,21 @@ The Anthropogenic Impact Accounting Ontology (AIAO) provides a semantic framewor
 
 ## Mission
 
-We attempt to break the concept of impact accounting down to its basic elements and design open-source representations thereof in software.
+We provide an open-source framework to represent the basic concepts of anthropogenic impact accounting in a machine readable format.
 
 ## Our Work
 
-The AIAO Suite is a tool for aggregating and consolidating impact accounting data across different standards and vocabularies. The ontology suite intends to be generic enough for anthropogenic impact accounting in almost any discipline and context, including climate action impact accounting.
+The AIAO Suite is a tool for aggregating and consolidating impact accounting data across different standards and vocabularies. The ontology suite is generic enough for anthropogenic impact accounting in almost any discipline and context, including climate action impact accounting.
 
 ## Why it matters
 
-Standardising the semantics of impact data is a prerequisite for trustworthy, decentralised infrastructure. Without a shared vocabulary, ledgers, analytics and audit tools cannot reason over data in a comparable way. With the AIAO Suite:
+Standardising the semantics of impact data is a prerequisite for trustworthy, decentralised infrastructure. Without a shared vocabulary, tools for analysis and auditing cannot reason over data in a comparable way. With the AIAO Suite we enable:
 
-- platforms can exchange and merge impact data
-- impact evidence can be verified across platforms
-- auditors can follow semantically explicit links from claims to evidence
-- developers can reuse common classes and properties instead of inventing new ones
-- communities can map legacy schemas into a common model rather than replacing them
+- the exchange of impact data
+- the verification of impact evidence across platforms
+- the semantically explicit linking of claims and evidence
+- the reuse of common classes and properties
+- the mapping of legacy schemas into a common model
 
 The ontology suite is the product of collaboration by members of the Standards Working Group of the LFDT CA2-SIG.
 
