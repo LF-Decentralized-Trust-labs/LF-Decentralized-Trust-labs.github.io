@@ -2,7 +2,7 @@
 layout: default
 title: IdentityBot
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Identity Bot](https://github.com/LF-Decentralized-Trust-labs/identity-bot)

@@ -2,7 +2,7 @@
 layout: default
 title: Fabric-X Ansible Collection
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 

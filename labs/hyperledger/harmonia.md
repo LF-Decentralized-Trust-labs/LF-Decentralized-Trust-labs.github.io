@@ -2,7 +2,7 @@
 layout: default
 title: Harmonia
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Harmonia](https://github.com/hyperledger-labs/harmonia)

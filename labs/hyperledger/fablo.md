@@ -2,7 +2,7 @@
 layout: default
 title: Fablo
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Fablo](https://github.com/hyperledger-labs/fablo)

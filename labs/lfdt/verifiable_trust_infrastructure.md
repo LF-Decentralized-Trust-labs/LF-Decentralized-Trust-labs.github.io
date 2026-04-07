@@ -2,12 +2,12 @@
 layout: default
 title: Verifiable Trust Infrastructure (VTI)
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 
 # Lab Name
 
-Verifiable Trust Infrastructure (VTI)
+[Verifiable Trust Infrastructure (VTI)](https://github.com/OpenVTC/verifiable-trust-infrastructure)
 
 # Short Description
 

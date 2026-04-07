@@ -2,11 +2,11 @@
 layout: default
 title: Decentralized Directory (DeDi)
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 
-[Decentralized Directory (DeDi)](https://github.com/LF-Decentralized-Trust-labs/DeDi)
+[Decentralized Directory (DeDi)](https://github.com/LF-Decentralized-Trust-labs/decentralized-directory-protocol)
 
 ## Short Description
 The Decentralized Directory (DeDi) Protocol is envisioned as a global, interoperable specification for accessing public directories. It unifies access to public information published by registrars, regardless of the underlying technology or jurisdiction, providing a standardized, open-source protocol for real-time look-up of any public directory.

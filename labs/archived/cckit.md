@@ -1,8 +1,7 @@
 ---
 layout: default
 title: CCKit
-parent: Hyperledger Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 
 # Lab Name

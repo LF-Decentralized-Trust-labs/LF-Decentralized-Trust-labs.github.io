@@ -2,12 +2,12 @@
 layout: default
 title: OpenVTC
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 
 # Lab Name
 
-OpenVTC
+[OpenVTC](https://github.com/OpenVTC)
 
 # Short Description
 

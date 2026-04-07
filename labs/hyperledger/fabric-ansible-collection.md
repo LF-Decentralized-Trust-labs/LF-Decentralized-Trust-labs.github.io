@@ -2,7 +2,7 @@
 layout: default
 title: Fabric Ansible Collection
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Fabric Ansible Collection](https://github.com/hyperledger-labs/fabric-ansible-collection)

@@ -2,10 +2,10 @@
 layout: default
 title: Flavum
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
-Flavum
+[Flavum](https://github.com/LF-Decentralized-Trust-labs/flavum)
 
 # Short Description
 Flavum is an experimental chain-agnostic machine learning L2 rollup project for creating a platform that can integrate machine learning with different blockchain solutions. It offers the possibility of bringing trustless machine learning (ML) into different decentralized ecosystems. ML algorithms are executed in a rollup system, providing a transparent and traceable way of ML inference or even training. Trustless execution, inference, or training are guaranteed by zero-knowledge proofs. 

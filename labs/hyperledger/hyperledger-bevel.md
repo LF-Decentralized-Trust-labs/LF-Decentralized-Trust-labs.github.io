@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Bevel
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Hyperledger Bevel](https://github.com/hyperledger-bevel/bevel)

@@ -2,7 +2,7 @@
 layout: default
 title: VS Code Plugin for Fabric Chaincode Developers
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [VS Code Plugin for Fabric Chaincode Developers](https://github.com/hyperledger-labs/fabric-debugger)

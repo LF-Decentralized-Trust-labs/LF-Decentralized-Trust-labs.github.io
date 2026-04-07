@@ -2,7 +2,7 @@
 layout: default
 title: Web3DB
 parent: LFDT Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Web3DB](https://github.com/LF-Decentralized-Trust-labs/web3db)

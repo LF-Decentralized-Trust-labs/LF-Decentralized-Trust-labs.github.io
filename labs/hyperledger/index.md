@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyperledger Labs
-parent: Active Labs
+parent: Approved Labs
 nav_order: 2
 has_children: true
 has_toc: true

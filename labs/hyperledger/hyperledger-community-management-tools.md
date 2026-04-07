@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Community Management Tools
 parent: Hyperledger Labs
-grand_parent: Active Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 [Hyperledger Community Management Tools](https://github.com/hyperledger-labs/hyperledger-community-management-tools)

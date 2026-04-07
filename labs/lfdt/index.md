@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LFDT Labs
-parent: Active Labs
+parent: Approved Labs
 nav_order: 1
 has_children: true
 has_toc: true

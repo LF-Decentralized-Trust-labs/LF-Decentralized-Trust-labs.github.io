@@ -1,8 +1,7 @@
 ---
 layout: default
 title: OpenOrigins HOPrS v1.0
-parent: LFDT Labs
-grand_parent: Active Labs
+parent: Archived Labs
 ---
 # Lab Name
 
