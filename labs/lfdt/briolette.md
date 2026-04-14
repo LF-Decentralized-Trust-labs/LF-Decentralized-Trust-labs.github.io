@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Briolette
-[//]: parent: LFDT Labs
-[//]: grand_parent: Approved Labs
+parent: LFDT Labs
+grand_parent: Approved Labs
 ---
 # Lab Name
 Briolette

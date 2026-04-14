@@ -1,3 +1,9 @@
+---
+layout: default
+title: OpenReagent
+parent: LFDT Labs
+grand_parent: Approved Labs
+---
 # Lab Name
 
 [OpenReagent](https://github.com/OpenReagent)
