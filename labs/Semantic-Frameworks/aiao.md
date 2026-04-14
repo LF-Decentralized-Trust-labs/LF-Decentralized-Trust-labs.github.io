@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anthropogenic Impact Accounting Ontology
-parent: LFDT Labs
+parent: https://github.com/Semantic-Frameworks as part of LFDT Labs
 grand_parent: Active Labs
 ---
 
@@ -33,7 +33,7 @@ Standardising the semantics of impact data is a prerequisite for trustworthy, de
 - the reuse of common classes and properties
 - the mapping of legacy schemas into a common model
 
-The ontology suite is the product of collaboration by members of the Standards Working Group of the LFDT CA2-SIG.
+The ontology suite is the product of collaboration by members of the Standards Working Group of the LFDT Climate Action & Accounting SIG.
 
 # Initial Committers
 
