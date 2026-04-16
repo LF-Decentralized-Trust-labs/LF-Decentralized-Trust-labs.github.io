@@ -37,7 +37,7 @@ The lab complements LFDT’s mission by strengthening the operational foundation
 - @raijoma123 
 
 # Sponsor
-- @hartm
+
 
 # Pre-existing repository
 https://github.com/OptiMesh/optimesh-code
