@@ -1,6 +1,6 @@
 ---
 layout: default
-title: onboarding_diagnostics_lab
+title: Onboarding Diagnostics Lab
 parent: LFDT Labs
 grand_parent: Approved Labs
 ---
