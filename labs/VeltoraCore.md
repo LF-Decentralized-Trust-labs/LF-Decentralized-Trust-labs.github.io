@@ -29,7 +29,7 @@ Areas of focus include:
 
 The lab will produce reference architectures, whitepapers, pilot programs, and implementation artifacts that can be adopted by LFDT projects and external ecosystems. It is explicitly neutral and not tied to any specific protocol, network, or commercial product.
 
-The lab complements LFDT’s mission by strengthening the operational foundations required for decentralized technologies to scale sustainably, ensuring that critical open source infrastructure remains secure, maintained, and effectively governed over time._
+The lab complements LFDT’s mission by strengthening the operational foundations required for decentralized technologies to scale sustainably, ensuring that critical open source infrastructure remains secure, maintained, and effectively governed over time.
 
 # Initial Committers
 - @henrique-videira
