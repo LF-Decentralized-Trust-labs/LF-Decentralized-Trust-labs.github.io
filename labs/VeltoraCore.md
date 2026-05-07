@@ -13,7 +13,7 @@ VeltoraCore is a system-agnostic, multi-pair optimization architecture that join
 # Scope of Lab
 The VeltoraCore AMM Lab operates as an applied research and incubation environment within LF Decentralized Trust. VeltoraCore addresses this coordination failure through a system-level execution architecture that jointly optimizes user execution and liquidity-provider participation within a unified feasibility framework. Clearing prices, fee tiers, execution quantities, and capital allocation are determined endogenously in each bin, allowing flexible unidirectional capital injection rather than price-constrained symmetric deposits. 
 
-The architecture is supports capital-coupled optimization across asset pairs. A lightweight Proof-of-Optimization (PoO) mechanism binds optimized outcomes to externally observable state. Simulation results show improved retained execution, reduced capital requirements with lower volatility relative to sequential AMM baselines.
+The architecture supports capital-coupled optimization across asset pairs. A lightweight Proof-of-Optimization (PoO) mechanism binds optimized outcomes to externally observable state. Simulation results show improved retained execution, reduced capital requirements with lower volatility relative to sequential AMM baselines.
 
 The lab explores and develops frameworks, reference models, and operational patterns that improve how open source projects are funded, governed, and maintained over time—particularly in frontier environments where traditional models are insufficient or unproven. This includes the design and validation of coordination mechanisms, contributor incentive structures, maintenance funding models, and governance approaches suited for decentralized and rapidly evolving systems.
 
