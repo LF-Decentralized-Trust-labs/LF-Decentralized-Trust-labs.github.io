@@ -6,7 +6,7 @@ grand_parent: Approved Labs
 ---
 
 # Lab Name
-Open Tokenized Asset Standard (OTAS)
+[Open Tokenized Asset Standard \(OTAS\)](https://github.com/OpenTokenizedAssetStandard/)
 
 # Short Description
 A LF Decentralized Trust lab contributing open source smart contract reference implementations for tokenized financial instruments — providing the industry a neutral, auditable on-chain foundation while platform-level orchestration, compliance, and lifecycle management remain out of scope.
