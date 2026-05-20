@@ -37,7 +37,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 2 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
-        uses: actions/configure-pages@v45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - name: Build with Jekyll
         # Outputs to the './_site' directory
         run: bundle exec jekyll build
