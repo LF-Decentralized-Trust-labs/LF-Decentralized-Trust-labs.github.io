@@ -5,7 +5,7 @@ parent: Approved Labs
 
 ---
 # Lab Name
-Open Source Frontiers Lab
+[Open Source Frontiers Lab](https://github.com/LF-Decentralized-Trust-labs/os-frontiers)
 
 # Short Description
 A research and development lab focused on advancing coordination, governance, and sustainability models for open source systems at the frontier of decentralized ecosystems.

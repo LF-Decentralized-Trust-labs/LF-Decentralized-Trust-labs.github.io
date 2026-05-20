@@ -7,7 +7,7 @@ parent: Approved Labs
 
 # Lab Name
 
-Onboarding Diagnostics Lab
+[Onboarding Diagnostics Lab](https://github.com/LF-Decentralized-Trust-labs/onboard-diagnostics)
 
 # Short Description
 

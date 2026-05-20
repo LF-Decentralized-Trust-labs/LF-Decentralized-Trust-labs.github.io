@@ -6,7 +6,7 @@ parent: Approved Labs
 
 # Lab Name
 
-Agent Privacy Preserving Protocol (AP3)
+[Agent Privacy Preserving Protocol (AP3)](https://github.com/lfdt-ap3)
 
 # Short Description
 
