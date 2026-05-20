@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Splice
-parent: Hyperledger Labs
-grand_parent: Approved Labs
+parent: Archived Labs
 ---
 # Splice
 [Splice](https://github.com/hyperledger-labs/splice)
