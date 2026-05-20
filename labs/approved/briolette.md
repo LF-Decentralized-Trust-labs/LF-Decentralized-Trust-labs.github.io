@@ -4,7 +4,7 @@ title: Briolette
 parent: Approved Labs
 ---
 # Lab Name
-Briolette
+[Briolette](https://github.com/Briolette)
 
 # Short Description
 Briolette is an experimental system for implementing offline-enabled digital

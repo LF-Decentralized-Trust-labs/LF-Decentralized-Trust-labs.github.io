@@ -6,7 +6,7 @@ parent: Approved Labs
 ---
 # Lab Name
 
-rethv
+[rethv](https://github.com/LF-Decentralized-Trust-labs/rethv)
 
 # Short Description
 
