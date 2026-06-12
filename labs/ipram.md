@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Open Standards for Regulated Digital Assets (OSRDA)
+title: Interoperability Patterns for Regulated Asset Markets (IPRAM)
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
 
-Open Standards for Regulated Digital Assets (OSRDA)
+Interoperability Patterns for Regulated Asset Markets (IPRAM)
 
 # Short Description
 
-The OSRDA Lab develops open implementation patterns for the interoperation of tokenised real-world regulated financial assets and the markets they participate in.
+The IPRAM Lab develops open implementation patterns for the interoperation of tokenised real-world regulated financial assets and the markets they participate in.
 
 # Scope of Lab
 
