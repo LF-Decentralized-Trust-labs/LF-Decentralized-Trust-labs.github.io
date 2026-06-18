@@ -6,7 +6,7 @@ grand_parent: Active Labs
 ---
 # Lab Name
 
-Interoperability Patterns for Regulated Asset Markets (IPRAM)
+[Interoperability Patterns for Regulated Asset Markets (IPRAM)](https://github.com/LFDT-IPRAM)
 
 # Short Description
 
