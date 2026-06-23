@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Anthropogenic Impact Accounting Ontology Suite
+title: Accountable Impact Commons
 parent: Approved Labs
 
 ---
 
 # Lab Name
 
-[Semantic Frameworks](https://github.com/Semantic-Frameworks)
+[Accountable Impact Commons](https://github.com/Semantic-Frameworks)
 
 # Short Description
 
