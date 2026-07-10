@@ -4,7 +4,7 @@ title: VeltoraCore AMM Lab
 parent: Approved Labs
 ---
 # Lab Name
-VeltoraCore AMM Lab.
+[VeltoraCore AMM Lab](https://github.com/LF-Decentralized-Trust-labs/veltoracore)
 
 # Short Description
 VeltoraCore is a system-agnostic, multi-pair optimization architecture that jointly optimizes execution and liquidity participation within a unified feasibility framework. Clearing prices and fee tiers are treated as endogenous decision variables to maximize executed volume and liquidity-provider surplus. A lightweight Proof-of-Optimization (PoO) mechanism cryptographically commits optimized batch outcomes to external system states, enabling verifiable cross-system settlement. Simulations on the ETH–USD pair show superior retained execution and materially lower user fees relative to benchmarks, while delivering liquidity-provider returns higher with reduced volatility. Gains stem from reallocating arbitrage surplus and coordinating execution beyond the limitations of prevailing sequential mechanisms.
