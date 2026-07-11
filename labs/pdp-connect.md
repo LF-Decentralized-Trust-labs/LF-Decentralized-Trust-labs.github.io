@@ -132,8 +132,8 @@ PDPP belongs in LFDT because a neutral open standard for this layer needs to be 
 
 The following repositories are being audited and prepared for contribution to the LFDT Labs organisation:
 
-- [https://github.com/vana-com/pdpp](https://github.com/vana-com/pdpp) (currently private)
+- [https://github.com/vana-com/pdpp](https://github.com/vana-com/pdpp) (public; already republished as a single squashed, DCO-signed-off initial commit)
 - [https://github.com/vana-com/data-connect](https://github.com/vana-com/data-connect)
 - [https://github.com/vana-com/data-connectors](https://github.com/vana-com/data-connectors)
 
-Because these repositories' histories do not carry DCO sign-offs, we plan to copy the code into the new lab repositories as squashed, signed-off initial commits after the project has been approved, instead of transferring the repositories themselves.
+Because the original development histories do not carry DCO sign-offs, code is contributed as squashed, signed-off initial commits rather than by transferring the repositories themselves — as already done for the pdpp repository; data-connect and data-connectors will follow the same pattern after approval.
