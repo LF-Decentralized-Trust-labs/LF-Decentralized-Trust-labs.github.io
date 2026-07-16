@@ -1,8 +1,7 @@
 ---
 layout: default
 title: PDP-Connect
-parent: LFDT Labs
-grand_parent: Active Labs
+parent: Approved Labs
 ---
 # Lab Name
 
