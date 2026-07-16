@@ -17,7 +17,7 @@ AI agents increasingly act on behalf of people and organizations, but most syste
 - https://github.com/aeoess
 
 # Sponsor
-None yet. Open to a sponsor from an existing LFDT project or the TAC if there is interest.
+- Arun S M - https://github.com/arsulegai - chair, LF Decentralized Trust Technical Advisory Council
 
 # Pre-existing repository
 None. Starting fresh in this Lab rather than migrating an existing repository's history.
