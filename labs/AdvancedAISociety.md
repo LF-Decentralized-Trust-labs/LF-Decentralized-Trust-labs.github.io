@@ -31,5 +31,4 @@ Co-Chair, ToIP Technology Stack Working Group;
 Co-Chair, ToIP Concepts and Terminology Working Group
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the LF Decentralized Trust Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/<your_repo>
+- https://github.com/AAISociety/openverification/tree/main/Proof-of-Control 
