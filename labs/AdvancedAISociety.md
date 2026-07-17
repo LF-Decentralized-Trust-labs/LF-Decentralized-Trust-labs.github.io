@@ -5,26 +5,30 @@ parent: LFDT Labs
 grand_parent: Active Labs
 ---
 # Lab Name
-_Enter the name of your lab here. **NOTE: When picking a name for your lab, note that a lab CANNOT be named the same as a product, network or any other existing entity.  Open source code should have a distinct identity from any instance of that code being used as a product or service.  If you do name your lab after a product or service note that you will need to change it later.**_
-_Change line 3 of this file to reflect the short name of your project._
-_Change line 4 to read: "parent: LFDT Labs"_
-_Change line 5 to read: "grand_parent: Active Labs"_
+Open Verification: Proof-of-Control
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
+Proof-of-Control: an open specification defining cryptographically verifiable evidence of AI agent behavior at runtime, verifiable by any party without re-running the system or trusting its operator.
 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within LF Decentralized Trust's mission._
+1. The six Domains of Verification: Privacy, Portability, Authorization, Security, Identity, and Provenance. The working groups define what each domain means at each level of verifiability.
+2. The Trustworthiness in Agents Matrix: the domains mapped against levels of verifiability, with example use cases.
+3. A working definition of Proof-of-Control and the properties of the evidence it produces.
+4. Over time, conformance and assessment criteria for verifiable evidence, and mappings to existing frameworks (NIST AI RMF, ISO/IEC 42001, CSA MAESTRO, OWASP) for interoperability.
+
 
 # Initial Committers
-_Enter the Github IDs for the set of initial committers._
-- https://github.com/<user_id1>
-- https://github.com/<user_id2>
-- ...
+https://github.com/kenhuangus <br>
+https://github.com/jim-schwoebel <br>
+https://github.com/MSadek-r7 
+
 
 # Sponsor
-_Provide the name of your sponsor. A sponsor is optional, but the sponsor must be a maintainer of one of the LF Decentralized Trust projects, a TAC member, or a SIG chair. Read about sponsors' duty in [Section 3, Labs proposal](./index.md#process-to-propose-a-new-lab)._
-- https://github.com/<user_id> or Name (email@example.org) - Role (e.g., "Chair of the XXX workgroup")
+Drummond Reed drummond.reed@gmail.com- Role Co-Organizer, The First Person Project; 
+Governance Lead, Ayra Association (ayra.forum/); 
+Steering Committee Member, Trust over IP Foundation (trustoverip.org); 
+Co-Chair, ToIP Technology Stack Working Group; 
+Co-Chair, ToIP Concepts and Terminology Working Group
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the LF Decentralized Trust Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
