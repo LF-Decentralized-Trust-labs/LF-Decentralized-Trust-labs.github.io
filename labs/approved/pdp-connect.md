@@ -5,7 +5,7 @@ parent: Approved Labs
 ---
 # Lab Name
 
-PDP-Connect
+[PDP-Connect](https://github.com/PDP-Connect)
 
 ## Executive Summary
 
