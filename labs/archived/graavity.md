@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Graavity
-parent: Approved Labs
+parent: Archived Labs
 
 ---
 

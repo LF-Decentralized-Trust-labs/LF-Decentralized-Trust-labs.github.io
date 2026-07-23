@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Web3DB
-parent: Approved Labs
+parent: Archived Labs
 
 ---
 # Lab Name
