@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Waterfall Network Proposal
-parent: Approved Labs
+parent: Archived Labs
 
 ---
 
