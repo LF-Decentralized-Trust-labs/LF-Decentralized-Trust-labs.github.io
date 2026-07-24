@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Verification: Proof-of-Control
+title: "Open Verification: Proof-of-Control"
 parent: LFDT Labs
 grand_parent: Active Labs
 ---
