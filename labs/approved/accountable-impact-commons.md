@@ -7,7 +7,7 @@ parent: Approved Labs
 
 # Lab Name
 
-[Accountable Impact Commons](https://github.com/Semantic-Frameworks)
+[Accountable Impact Commons](https://github.com/Accountable-Impact-Commons)
 
 # Short Description
 
