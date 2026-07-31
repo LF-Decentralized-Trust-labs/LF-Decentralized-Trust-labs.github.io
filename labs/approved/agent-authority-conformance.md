@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Agent Authority Conformance
-parent: LFDT Labs
-grand_parent: Active Labs
+parent: Approved Labs
 ---
 # Lab Name
 Agent Authority Conformance
