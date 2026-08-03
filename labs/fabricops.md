@@ -33,8 +33,8 @@ The lab fits LF Decentralized Trust's mission by improving the operability and a
 - https://github.com/dpereowei
 
 # Sponsor
-[Jakub Dzikowski](https://github.com/dzikowski)
-[Umegbewe Nwebedu](https://github.com/umegbewe)
+- [Jakub Dzikowski](https://github.com/dzikowski)
+- [Umegbewe Nwebedu](https://github.com/umegbewe)
 
 # Pre-existing repository
 - https://github.com/dpereowei/FabricOps
