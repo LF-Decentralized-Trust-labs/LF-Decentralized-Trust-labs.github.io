@@ -1,8 +1,7 @@
 ---
 layout: default
 title: FabricOps
-parent: LFDT Labs
-grand_parent: Active Labs
+parent: Approved Labs
 ---
 # Lab Name
 [FabricOps](https://github.com/dpereowei/FabricOps)
@@ -33,8 +32,8 @@ The lab fits LF Decentralized Trust's mission by improving the operability and a
 - https://github.com/dpereowei
 
 # Sponsor
-[Jakub Dzikowski](https://github.com/dzikowski)
-[Umegbewe Nwebedu](https://github.com/umegbewe)
+- [Jakub Dzikowski](https://github.com/dzikowski)
+- [Umegbewe Nwebedu](https://github.com/umegbewe)
 
 # Pre-existing repository
 - https://github.com/dpereowei/FabricOps
