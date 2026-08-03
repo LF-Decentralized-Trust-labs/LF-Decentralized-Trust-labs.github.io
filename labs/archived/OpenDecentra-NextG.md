@@ -1,8 +1,7 @@
 ---
 layout: default
 title: OpenDecentra-NextG
-parent: Approved Labs
-
+parent: Archived Labs
 ---
 
 # Lab Name

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fabino-Test
-parent: Approved Labs
+parent: Archived Labs
 ---
 
 # Lab Name
