@@ -1,8 +1,7 @@
 ---
 layout: default
 title: One Attestation API
-parent: Approved Labs
-
+parent: Archived Labs
 ---
 # Lab Name
 [One Attestation API](https://github.com/LF-Decentralized-Trust-labs/one-attestation-api)

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Flavum
-parent: Approved Labs
-
+parent: Archived Labs
 ---
 # Lab Name
 [Flavum](https://github.com/LF-Decentralized-Trust-labs/flavum)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ArtizYou
-parent: Approved Labs
+parent: Archived Labs
 ---
 # Lab Name
 
