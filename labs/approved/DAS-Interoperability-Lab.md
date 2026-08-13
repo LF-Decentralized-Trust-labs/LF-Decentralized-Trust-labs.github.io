@@ -1,8 +1,7 @@
 ---
 layout: default
 title: DAS Interoperability Lab
-parent: LFDT Labs
-grand_parent: Active Labs
+parent: Approved Labs
 ---
 # DAS Interoperability Lab
 
