@@ -7,7 +7,18 @@ nav_order: 2
 
 # LF Decentralized Trust Labs Governance
 
-Labs are not directly controlled by the TAC. Labs are proposed and run by the community. They can be created by a [simple pull request](index#process-to-propose-a-new-lab) to the [labs stewards](stewards), who will perform due diligence on proposed labs before adding them. Upon approval by at least 2 stewards, any steward can effectively launch the proposed lab by accepting the Pull Request.
+Labs are not directly controlled by the TAC. Labs are proposed and run by the community. They are proposed by [opening a Lab Proposal issue](https://github.com/LF-Decentralized-Trust/lab-proposals/issues/new?template=lab-proposal.yml) in the [lab-proposals](https://github.com/LF-Decentralized-Trust/lab-proposals) repository (see [Process to propose a new lab](index#process-to-propose-a-new-lab)). The [labs stewards](stewards) perform due diligence on proposed labs before adding them.
+
+Review happens in the open, on the proposal issue, and the issue label tracks the state of the proposal:
+
+| Label | Meaning |
+|-------|---------|
+| `New Proposal` | The form has been submitted. Applied automatically. |
+| `Steward Review` | The labs stewards are evaluating the proposal. |
+| `Approved` | The proposal is accepted; the proposers work with LFDT staff on onboarding. |
+| `Declined` | The proposal is not accepted; stewards explain why on the issue. |
+
+Upon approval by at least 2 stewards, any steward can effectively launch the proposed lab by labeling the issue `Approved` and coordinating onboarding with LFDT staff: existing asset transfer (if applicable), repository creation or transfer, infrastructure setup, and announcement. The lab's page is then added to this site under [Approved Labs](labs/).
 
 In case of issue with the [labs stewards](stewards), requesters and/or committers can appeal to the TAC for arbitration.
 
@@ -24,10 +35,12 @@ The TAC will then vote at an upcoming meeting to determine if your request is ap
 ## Labs Stewards Responsibilities
 
 The labs stewards are responsible for:
-1. Reviewing Lab proposals **within a week of submission** and ensuring that:
+1. Reviewing Lab proposal issues **within a week of submission**, moving them to `Steward Review`, and ensuring that:
+    1. The proposal is cogent and novel (in conception, proposed execution, or interested community);
     1. The scope of the proposed lab fits within LF Decentralized Trust’s mission;
-    1. The proposed name is appropriate (e.g., not too generic, confusing, or conflicting with other labs or projects, etc);
-    1. If there is an existing repo, that it is Apache 2.0 Licensed and that its commits have DCO sign-off. See [Bringing in an Existing Repository](https://github.com/lf-decentralized-trust-labs/lf-decentralized-trust-labs.github.io?tab=readme-ov-file#bringing-in-an-existing-repository) for more information.
+    1. The proposed name is appropriate (e.g., not too generic, confusing, or conflicting with other labs or projects, and not named after a product, network, or other existing entity). Names are also reviewed by LFDT trademark counsel;
+    1. The lab's technical activity type — code project, specification, or both — is licensed accordingly: code under Apache 2.0 with DCO sign-off, specifications under the [Community Specification License 1.0](https://github.com/CommunitySpecification/1.0/blob/master/01-community-specification-license-v1.md) and the rest of the CSL framework;
+    1. If there is an existing repo, that it is relicensable to Apache 2.0 and that its commits have DCO sign-off. See [Bringing in an Existing Repository](index#bringing-in-an-existing-repository) for more information.
 1. If a lab steward expects to be away from the computer for more than a week, they must inform the other labs stewards in #labs-governance channel on Discord.
 1. Quarterly, on a rotating basis:
     1. provide a quarterly update to the TAC on labs ([example](https://wiki.hyperledger.org/display/labs/2019+H2+Hyperledger+Labs+Update)). This update should include:
@@ -36,7 +49,7 @@ The labs stewards are responsible for:
         - List of Existing Labs (includes a table with columns of Lab Name, Description, Created Date, PRs Merged, Last Commit)
         - List of Labs that Became Projects (includes a table with columns 
         - List of Archived Labs (includes a table with columns of Lab Name, Description, Archived Date)
-    1. Determine which labs should be archived (see [Archiving](https://github.com/lf-decentralized-trust-labs/lf-decentralized-trust-labs.github.io?tab=readme-ov-file#archiving) for details on when labs should be archived) and create a PR ([example](https://github.com/lf-decentralized-trust-labs/fabric-topologies/commit/a7f305f297d70287ae9da264bba4c7f4d73af35b)) for each lab that needs to be archived.
+    1. Determine which labs should be archived and create a PR ([example](https://github.com/lf-decentralized-trust-labs/fabric-topologies/commit/a7f305f297d70287ae9da264bba4c7f4d73af35b)) for each lab that needs to be archived. Labs are candidates for archiving when they become dormant or unresponsive for an extended period (6+ months), or are explicitly deemed by their committers to be deprecated or obsolete.
     1. Determine which labs stewards have been inactive (see [Inactive Labs Stewards](#inactive-labs-stewards) for more information on what is required).
 1. Resigning their position if they are no longer able to serve as a labs steward.
 
