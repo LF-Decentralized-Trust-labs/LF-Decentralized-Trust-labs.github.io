@@ -37,7 +37,7 @@ Decisions to grant or deny committer access are recorded publicly against these 
 
 On fit with LF Decentralized Trust: the identity and verifiable-credential work hosted here runs into the problem this corpus exists to check, which is separate implementations having to produce and accept the same signed structures before anything interoperates. Authority delegated to AI agents raises that requirement at a newer layer. Neutral hosting separates who publishes a protocol from who publishes evidence about it, and the reports distinguish author-run from independent results so that participation is visible rather than assumed.
 
-The starting corpus is the public Apache 2.0 suite at https://github.com/aeoess/aps-conformance-suite. It covers canonical byte encoding, agent identity, scoped delegation, decision receipts, attribution, instruction provenance and negative cases, together with cross-implementation parity checks.
+The starting corpus is the public Apache 2.0 suite at https://github.com/Agent-Authority-Conformance/aps-conformance-suite. It covers canonical byte encoding, agent identity, scoped delegation, decision receipts, attribution, instruction provenance and negative cases, together with cross-implementation parity checks.
 
 Additional agent-authority specifications may be proposed later, each with a defined normative target, a contributed corpus and an identified maintainer. Their results stay distinguishable from APS results.
 
@@ -48,4 +48,4 @@ Additional agent-authority specifications may be proposed later, each with a def
 - Arun S M - https://github.com/arsulegai - chair, LF Decentralized Trust Technical Advisory Council
 
 # Pre-existing repository
-Yes: https://github.com/aeoess/aps-conformance-suite (Apache 2.0). Two things need handling on import. The existing history carries no DCO sign-offs. It also includes a third-party contribution of negative-path vectors at commit `381885a` whose attribution needs to be preserved. The import method will be agreed with LFDT staff rather than settled in this proposal.
+Yes: https://github.com/Agent-Authority-Conformance/aps-conformance-suite (Apache 2.0). Two things need handling on import. The existing history carries no DCO sign-offs. It also includes a third-party contribution of negative-path vectors at commit `381885a` whose attribution needs to be preserved. The import method will be agreed with LFDT staff rather than settled in this proposal.
