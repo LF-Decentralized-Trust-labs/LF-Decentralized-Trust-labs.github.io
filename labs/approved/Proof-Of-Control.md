@@ -5,7 +5,7 @@ parent: Approved Labs
 ---
 
 # Lab Name
-[Open Verification: Proof-of-Control](https://github.com/LFDT-OpenVerification)
+[Open Verification: Proof-of-Control](https://github.com/LFDT-ProofOfControl)
 
 # Short Description
 Proof-of-Control: an open specification defining cryptographically verifiable evidence of AI agent behavior at runtime, verifiable by any party without re-running the system or trusting its operator.
