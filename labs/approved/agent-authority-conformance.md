@@ -4,7 +4,7 @@ title: Agent Authority Conformance
 parent: Approved Labs
 ---
 # Lab Name
-Agent Authority Conformance
+[Agent Authority Conformance](https://github.com/Agent-Authority-Conformance)
 
 # Short Description
 Conformance vectors, verifier adapters and reproducible run reports for agent identity, delegated authority, signed decision receipts, attribution and provenance. The initial corpus targets the Agent Passport System.
