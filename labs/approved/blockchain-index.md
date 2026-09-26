@@ -5,7 +5,7 @@ parent: Approved Labs
 ---
 ### Lab Name
 
-Blockchain Decentralisation Index
+[Blockchain Decentralisation Index](https://github.com/Blockchain-Decentralisation-Index)
 
 ### Short Description
 

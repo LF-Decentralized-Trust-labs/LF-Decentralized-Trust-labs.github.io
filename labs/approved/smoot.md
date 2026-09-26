@@ -5,7 +5,7 @@ parent: Approved Labs
 ---
 ### Lab Name
 
-Smoot
+[Smoot](https://github.com/LFDT-Smoot)
 
 ### Short Description
 
