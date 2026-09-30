@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Recomputable Evidence
+title: Composable Evidence Criteria
 parent: Approved Labs
 ---
-# Recomputable Evidence
+# Composable Evidence Criteria
 
 ## Section 1 — Mission and Scope
 
 ### Lab Name
-[Recomputable Evidence](https://github.com/Recomputable-Evidence)
+[Composable Evidence Criteria](https://github.com/Composable-Evidence-Criteria)
 
 ### Short Description
 A shared test bench for checking whether separate specifications for AI agent evidence still hold up when they are used together.
@@ -44,10 +44,10 @@ Not initially. The criteria ship as text alongside the test cases. The specs bei
 https://github.com/giskard09/action-ref-conformance (Apache-2.0). Most of its commits have no DCO sign-off; we will squash the history into one signed-off commit when the lab repository is created.
 
 ### Initial Committers
-- https://github.com/giskard09
-- https://github.com/azender1 (SafeAgent — our integrator partner under a signed Revenue Share Agreement. He recuses from any decision that would directly benefit his own commercial interest.)
-- https://github.com/magentixai (Martin Sansone — CEO, Magentix.AI; author of the Enhanced Fraud Data standard, Pay.UK; also steering the x402 Foundation TSC evidence-record charter, a related but separate track)
-- https://github.com/kenneives (AgentGraph/AgentAvow; wrote the independence rubric)
+- [giskard09](https://github.com/giskard09)
+- [azender1](https://github.com/azender1) (SafeAgent — our integrator partner under a signed Revenue Share Agreement. He recuses from any decision that would directly benefit his own commercial interest.)
+- [magentixai](https://github.com/magentixai) (Martin Sansone — CEO, Magentix.AI; author of the Enhanced Fraud Data standard, Pay.UK; also steering the x402 Foundation TSC evidence-record charter, a related but separate track)
+- [kenneives](https://github.com/kenneives) (AgentGraph/AgentAvow; wrote the independence rubric)
 
 ### Licensing
 ☑ I understand that all code hosted in LFDT Labs must be made available under an Apache 2.0 license with DCO sign-off.
