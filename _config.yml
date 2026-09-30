@@ -12,7 +12,6 @@ aux_links:
   "Chat":
     - "https://discord.lfdecentralizedtrust.org"
 theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-remote-theme
+sass:
+  style: compressed
 repository: LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io
