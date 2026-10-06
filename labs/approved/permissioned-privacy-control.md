@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Open Privacy Suite
+title: Permissioned Privacy Control
 parent: Approved Labs
 
 ---
 # Lab Name
 
-[Open Privacy Suite](https://github.com/LFDT-Open-Privacy-Suite)
+[Permissioned Privacy Control](https://github.com/LFDT-Permissioned-Privacy-Control)
 
 ## Short Description
 
@@ -18,7 +18,7 @@ A privacy and access-control gateway for EVM permissioned networks: it sits betw
 
 Permissioned EVM networks are shared ledgers, which means every participant can by default read every other participant's transactions. That is acceptable for a consortium of peers and unacceptable for regulated institutions, which need transaction confidentiality from each other while still giving auditors and regulators a provable, selective view.
 
-Open Privacy Suite provides that layer as open source infrastructure rather than as a per-deployment integration.
+Permissioned Privacy Control provides that layer as open source infrastructure rather than as a per-deployment integration.
 
 ### Our work
 
@@ -34,7 +34,7 @@ The gateway is deployed as the only network path between clients and the executi
 
 The lab exists because of a demand the market keeps making and existing tooling keeps answering expensively. Institutions want to operate on shared EVM infrastructure without exposing their business to the other participants on it — but they want that without replacing the execution client they already run, without a bespoke consensus, and without rewriting contracts that are already deployed and audited. Approaches that place privacy in the ledger or in the contract layer ask for exactly those changes, and the cost of making them is a large part of why privacy on permissioned chains is still delivered as bespoke integration work.
 
-Open Privacy Suite was built to that constraint: the enforcement point was moved to the RPC boundary, where it can be applied in front of an unmodified node and unmodified contracts. The code is already public under Apache 2.0 at https://github.com/gateway-fm/open-privacy-suite
+Permissioned Privacy Control was built to that constraint: the enforcement point was moved to the RPC boundary, where it can be applied in front of an unmodified node and unmodified contracts. The code is already public under Apache 2.0 at https://github.com/gateway-fm/open-privacy-suite
 
 ### Initial scope
 
