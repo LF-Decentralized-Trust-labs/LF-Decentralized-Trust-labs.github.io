@@ -1,16 +1,16 @@
 ---
 layout: default
-title: OpenReagent
+title: Sigvelis
 parent: Approved Labs
 
 ---
 # Lab Name
 
-[OpenReagent](https://github.com/OpenReagent)
+[Sigvelis](https://github.com/Sigvelis)
 
 # Short Description
 
-OpenReagent is a toolkit and open standard for extracting vulnerability signatures from audits, enabling fast detection and structured sharing across smart contract ecosystems.
+Sigvelis is a toolkit and open standard for extracting vulnerability signatures from audits, enabling fast detection and structured sharing across smart contract ecosystems.
 
 # Scope of Lab
 
