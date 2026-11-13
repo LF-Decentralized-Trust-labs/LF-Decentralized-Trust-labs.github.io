@@ -48,7 +48,7 @@ To drive adoption and interoperability, the lab will also:
 - Ry Jones (https://github.com/ryjones)
 
 ## Pre-existing repository
-- https://github.com/finternet-io/dedi
+- https://github.com/LF-Decentralized-Trust-labs/decentralized-directory-protocol (formerly finternet-io/dedi)
 
 
 ## Advisors from LFDT
@@ -59,4 +59,4 @@ To drive adoption and interoperability, the lab will also:
 ## Other references
 
 - [Finternet Lab](https://finternetlab.io/)
-- [GitHub](https://github.com/dedi-official) for all tools around Decentralized Directory.
+- [GitHub](https://github.com/LF-Decentralized-Trust-labs/decentralized-directory-protocol) for all tools around Decentralized Directory.

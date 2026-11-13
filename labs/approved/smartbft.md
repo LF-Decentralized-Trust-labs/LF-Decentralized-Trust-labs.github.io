@@ -6,7 +6,7 @@ parent: Approved Labs
 ---
 # Lab Name
 
-[SmartBFT](https://github.com/hyperledger-labs/SmartBFT)
+[SmartBFT](https://github.com/hyperledger/SmartBFT)
 
 # Short Description
 
@@ -42,4 +42,4 @@ Finally, the library was accepted into Hyperledger Fabric with [RFC-006](https:/
 
 # Pre-existing repository
 
-- https://github.com/SmartBFT-Go/consensus
+- https://github.com/hyperledger/SmartBFT (formerly SmartBFT-Go/consensus)
