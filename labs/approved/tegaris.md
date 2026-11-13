@@ -5,7 +5,7 @@ parent: Approved Labs
 ---
 ### Lab Name
 
-Tegaris Application Privacy
+[Tegaris Application Privacy](https://github.com/LFDT-tegaris)
 
 ### Short Description
 

@@ -5,6 +5,8 @@ parent: Approved Labs
 ---
 # DAS Interoperability Lab
 
+[DAS Interoperability Lab](https://github.com/DAS-Interoperability)
+
 # Short Description
 A neutral, open-source standards and pilot body dedicated to operationalizing the frameworks outlined in the whitepapers [_Building the Path Towards Digital Asset Securities Interoperability (DASI)_](https://www.dtcc.com/-/media/interoperable-digital-asset-securities-white-paper.pdf) and [_Digital Assets Securities Control Principles (DASCP)_](https://www.euroclear.com/content/dam/euroclear/news%20&%20insights/Format/Whitepapers-Reports/Euroclear_Digital_Assets_DASCP_Whitepaper.pdf). The lab aims to produce implementable digital asset securities specifications and validate them through live proofs-of-concept on real institutional infrastructure.
 
